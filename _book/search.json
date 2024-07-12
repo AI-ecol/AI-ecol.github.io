@@ -1,0 +1,104 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AI for ecologists: a toolkit",
+    "section": "",
+    "text": "Welcome\nThis five-day training course, organized by the FRB-CESAB aims to initiate ecologists to AI concepts and tools. The course will be a mix of lectures and hands-on practice based on different data types commonly encountered in ecology. The main objective of the course is to give to the participants the autonomy that will allow them to assess which algorithms are most adapted to their own research questions, where to find them and how to adjust them to the desired question.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#program",
+    "href": "index.html#program",
+    "title": "AI for ecologists: a toolkit",
+    "section": "Program",
+    "text": "Program\nIntroduction and overview of main AI concepts\nIntroduction to data science\nRandom forest and regression\nMultilayer Perceptron\nConvolutional Neural Networks\nSymbolic AI",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#prerequisites",
+    "href": "index.html#prerequisites",
+    "title": "AI for ecologists: a toolkit",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nYou must have a strong programming background, at least in R.\nFamiliarity with Python is preferred, but not mandatory. In fact, to make sure that we all start on similar bases, we require that you follow these tutorials (list coming soon) before attending the training course.\n  Point at tutorial",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#material",
+    "href": "index.html#material",
+    "title": "AI for ecologists: a toolkit",
+    "section": "Material",
+    "text": "Material\nAll the material used in this training course (slides, data, exercises) is available at: https://github.com/ai-ecol/",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#citation",
+    "href": "index.html#citation",
+    "title": "AI for ecologists: a toolkit",
+    "section": "Citation",
+    "text": "Citation\n\nCoux c, Ayata S-D, Blondel L, Justea-Allaire D, Servajean M, Tresson P. (2024) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: https://ai-ecol.github.io/",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#contributions",
+    "href": "index.html#contributions",
+    "title": "AI for ecologists: a toolkit",
+    "section": "Contributions",
+    "text": "Contributions\nIf you see mistakes or want to suggest changes, please create an issue on the source repository.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#reuse",
+    "href": "index.html#reuse",
+    "title": "AI for ecologists: a toolkit",
+    "section": "Reuse",
+    "text": "Reuse\nText and figures are licensed under Creative Commons Attribution CC By 4.0, unless otherwise noted.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#see-also",
+    "href": "index.html#see-also",
+    "title": "AI for ecologists: a toolkit",
+    "section": "See also",
+    "text": "See also\nDiscover the other training courses provided by the FRB-CESAB and its partners: https://frbcesab.github.io/training-courses/",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "chapters/setting-up-r.html",
+    "href": "chapters/setting-up-r.html",
+    "title": "Setting up R",
+    "section": "",
+    "text": "The guide to correctly install and configure a working environment for data science with , , and  is available at: https://frbcesab.github.io/rsetup/",
+    "crumbs": [
+      "Prerequisites",
+      "Setting up R"
+    ]
+  },
+  {
+    "objectID": "chapters/coming-soon.html",
+    "href": "chapters/coming-soon.html",
+    "title": "Coming soon",
+    "section": "",
+    "text": "…",
+    "crumbs": [
+      "Courses",
+      "Coming soon"
+    ]
+  }
+]

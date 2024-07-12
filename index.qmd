@@ -1,0 +1,79 @@
+---
+toc: true
+---
+
+# Welcome {.unnumbered}
+
+::: {.callout-note}
+## Registrations for the 2025 session are not yet open
+
+
+{{< fa hand-point-right >}}&nbsp; Subscribe to the 
+[FRB-CESAB newsletter](https://www.fondationbiodiversite.fr/en/newsletter/) 
+to stay informed. More information will soon be available on the [FRB-CESAB website](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/develop-skills/).
+:::
+
+
+
+This five-day training course, organized by the [FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/) aims to initiate ecologists to AI concepts and tools. The course will be a mix of lectures and hands-on practice based on different data types commonly encountered in ecology. The main objective of the course is to give to the participants the autonomy that will allow them to assess which algorithms are most adapted to their own research questions, where to find them and how to adjust them to the desired question. 
+
+
+
+## Program {.unnumbered}
+
+**Introduction and overview of main AI concepts**
+
+
+**Introduction to data science**
+
+
+**Random forest and regression**
+
+
+**Multilayer Perceptron**
+
+
+**Convolutional Neural Networks**
+
+
+**Symbolic AI**
+
+
+## Prerequisites {.unnumbered}
+
+You must have a strong programming background, at least in R. 
+
+Familiarity with Python is preferred, but not mandatory. In fact, to make sure that we all start on similar bases, we require that you follow these tutorials (list coming soon) **before attending the training course**.
+
+{{< fa hand-point-right >}}&nbsp; Point at tutorial
+
+ 
+
+
+## Material {.unnumbered}
+
+All the material used in this training course (slides, data, exercises) is available at: <https://github.com/ai-ecol/>
+
+
+
+## Citation {.unnumbered}
+
+> Coux c, Ayata S-D, Blondel L, Justea-Allaire D, Servajean M, Tresson P. (2024) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: <https://ai-ecol.github.io/>
+
+
+## Contributions {.unnumbered}
+
+If you see mistakes or want to suggest changes, please [create an issue](https://github.com/ai-ecol/ai-ecol.github.io/issues/new) on the source repository.
+
+
+## Reuse {.unnumbered}
+
+Text and figures are licensed under Creative Commons Attribution [CC By 4.0](https://creativecommons.org/licenses/by/4.0/), unless otherwise noted.
+
+
+## See also {.unnumbered}
+
+
+Discover the other training courses provided by the FRB-CESAB and its partners: <https://frbcesab.github.io/training-courses/>
+
+
