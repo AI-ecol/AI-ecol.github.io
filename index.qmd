@@ -27,13 +27,10 @@ This five-day training course, organized by the [FRB-CESAB](https://www.fondatio
 **Introduction to data science**
 
 
-**Random forest and regression**
+**Supervised learning, unsupervised learning**
 
 
-**Multilayer Perceptron**
-
-
-**Convolutional Neural Networks**
+**Deep learning**
 
 
 **Symbolic AI**
@@ -58,7 +55,7 @@ All the material used in this training course (slides, data, exercises) is avail
 
 ## Citation {.unnumbered}
 
-> Coux c, Ayata S-D, Blondel L, Justea-Allaire D, Servajean M, Tresson P. (2024) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: <https://ai-ecol.github.io/>
+> Ayata S-D, Blondel L, Coux c, Justea-Allaire D, Servajean M, Tresson P. (2024) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: <https://ai-ecol.github.io/>
 
 
 ## Contributions {.unnumbered}
