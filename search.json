@@ -14,7 +14,7 @@
     "href": "index.html#program",
     "title": "AI for ecologists: a toolkit",
     "section": "Program",
-    "text": "Program\nIntroduction and overview of main AI concepts\nIntroduction to data science\nRandom forest and regression\nMultilayer Perceptron\nConvolutional Neural Networks\nSymbolic AI",
+    "text": "Program\nIntroduction and overview of main AI concepts\nIntroduction to data science\nSupervised learning, unsupervised learning\nDeep learning\nSymbolic AI",
     "crumbs": [
       "Welcome"
     ]
@@ -44,7 +44,7 @@
     "href": "index.html#citation",
     "title": "AI for ecologists: a toolkit",
     "section": "Citation",
-    "text": "Citation\n\nCoux c, Ayata S-D, Blondel L, Justea-Allaire D, Servajean M, Tresson P. (2024) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: https://ai-ecol.github.io/",
+    "text": "Citation\n\nAyata S-D, Blondel L, Coux c, Justea-Allaire D, Servajean M, Tresson P. (2024) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: https://ai-ecol.github.io/",
     "crumbs": [
       "Welcome"
     ]
