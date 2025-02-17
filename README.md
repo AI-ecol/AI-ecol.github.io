@@ -6,21 +6,20 @@
 <!-- badges: end -->
 
 
-![](images/banner_ia.png)
+![](images/banner-ia.png)
 
 
-Source of the [workshop](https://ai-ecol.github.io/) **_AI for ecologists_**
+Source of the [workshop](https://ai-ecol.github.io/) **_AI for ecologists : a toolkit_**
 organized by the 
 [FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/).
 
+The course material will be put online during and after the training course takes place, and will remain there afterwards. Feel free to share or reuse.
 
-
-#### ⚠️ **Work in progress**
 
 
 ### Citation
 
-> Coux c, Ayata S-D, Blondel L, Justea-Allaire D, Servajean M, Tresson P. (2024) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: <https://ai-ecol.github.io/>
+> Blondel L, Bourel B, Challand M, Coux C, Justeau-Allaire D, Frelat R, Servajean M, Tresson P. (2025) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: https://ai-ecol.github.io/
 
 
 <hr />
