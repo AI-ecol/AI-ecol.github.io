@@ -14,7 +14,7 @@
     "href": "index.html#program",
     "title": "AI for ecologists: a toolkit",
     "section": "Program",
-    "text": "Program\nIntroduction and overview of main AI concepts\nIntroduction to data science\nSupervised learning, unsupervised learning\nDeep learning\nSymbolic AI",
+    "text": "Program\nMonday 19 May 2025 – 9:00 am: Introduction\nPresentation of the course and speakers\nIntroduction to AI: historical background\nIntroduction to Python environment and tools\nData science in Python\nTuesday 20 May 2025 – Machine learning 1\nLinear and general regression : from a ML perspective\nRandom forest and K-means\nPractical concepts and practice\nWednesday 21 May 2025 – Machine learning 2\nDataset selection\nSupervised learning\nUnsupervised learning\nDimensionality reduction\nThursday 22 May 2025 – Deep learning\nDL concepts\nPractices with PlantNet\nFriday 23 May 2025 – Symbolic AI\nIntroduction\nPractice: Designing protected areas in New Caledonia\nPractice: Crop rotation planning\nFeedback time and conclusion",
     "crumbs": [
       "Welcome"
     ]
@@ -24,7 +24,7 @@
     "href": "index.html#prerequisites",
     "title": "AI for ecologists: a toolkit",
     "section": "Prerequisites",
-    "text": "Prerequisites\nYou must have a strong programming background, at least in R.\nFamiliarity with Python is preferred, but not mandatory. In fact, to make sure that we all start on similar bases, we require that you follow these tutorials (list coming soon) before attending the training course.\n  Point at tutorial",
+    "text": "Prerequisites\nYou must have a strong programming background, at least in R.\nFamiliarity with Python is preferred, but not mandatory. In fact, to make sure that we all start on similar bases, we require that you follow these tutorials before attending the training course.\n  https://www.learnpython.org/\nUnder the “Learn the basics”, please go through all the following pages:\n• Hello, World!\n• Variables and Types\n• Lists\n• Basic Operators\n• String Formatting\n• Basic String Operations\n• Conditions\n• Loops\n• Functions\n• Classes and Objects\n• Dictionaries\n• Modules and Packages\n• Input and Output\nEach section allows you to interact with a built-in Python console where you can copy/paste and edit the commands. The sections end with a small exercise, which we recommend you do. You may navigate from one section to the other by clicking on the “next tutorial” button (you don’t have to take the test – but are welcome to if you enjoy it)\nWe will not control whether you followed the tutorial, but trust that you will to collectively ensure the group has a common base to start from",
     "crumbs": [
       "Welcome"
     ]
@@ -40,11 +40,21 @@
     ]
   },
   {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "AI for ecologists: a toolkit",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nThanks to Sakina Ayata for comments and advice in the set-up of this training course, to Nicolas Casajus for constant conceptual and technical support. Thanks to Maija Miikkola for all the logistical and administrative help, and to Violette Silve for the visual support on the FRB website.",
+    "crumbs": [
+      "Welcome"
+    ]
+  },
+  {
     "objectID": "index.html#citation",
     "href": "index.html#citation",
     "title": "AI for ecologists: a toolkit",
     "section": "Citation",
-    "text": "Citation\n\nAyata S-D, Blondel L, Coux c, Justea-Allaire D, Servajean M, Tresson P. (2024) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: https://ai-ecol.github.io/",
+    "text": "Citation\n\nBlondel L, Bourel B, Challand M, Coux C, Justea-Allaire D, Frelat R, Servajean M, Tresson P. (2025) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: https://ai-ecol.github.io/",
     "crumbs": [
       "Welcome"
     ]
@@ -77,17 +87,6 @@
     "text": "See also\nDiscover the other training courses provided by the FRB-CESAB and its partners: https://frbcesab.github.io/training-courses/",
     "crumbs": [
       "Welcome"
-    ]
-  },
-  {
-    "objectID": "chapters/setting-up-r.html",
-    "href": "chapters/setting-up-r.html",
-    "title": "Setting up R",
-    "section": "",
-    "text": "The guide to correctly install and configure a working environment for data science with , , and  is available at: https://frbcesab.github.io/rsetup/",
-    "crumbs": [
-      "Prerequisites",
-      "Setting up R"
     ]
   },
   {
