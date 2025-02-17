@@ -6,34 +6,19 @@ book:
   
   author: 
   
-    - name: "Sakina-Dorothée Ayata"
-      orcid: "0000-0003-3226-9779"
-      url: "https://orcid.org/0000-0003-3226-9779"
-      affiliations: 
-        - name: LOCEAN, Sorbonne Université
-          url: "https://www.normalesup.org/~ayata/"
-  
     - name: "Léo Blondel"
       orcid: "0000-0003-2276-4821"
-      url: "https://orcid.org/0000-0003-2276-4821leo blondel ai
-      "
+      url: "https://orcid.org/0000-0003-2276-4821leo blondel ai"
       affiliations: 
-        - name: founder of ailen.club
+        - name: founder of ailen.club, Montpeliler
           url: "https://www.alien.club/"
-          
-    - name: "Camille Coux"
-      orcid: "0000-0002-6346-9194"
-      url: "https://orcid.org/0000-0002-6346-9194"
-      affiliations: 
-        - name: FRB-CESAB
-          url: "https://www.fondationbiodiversite.fr/en/membre/camille-coux/"
-          
+
           
     - name: "Dimitri Justeau-Allaire"
       orcid: "0000-0003-4129-0764"
       url: "https://orcid.org/0000-0003-4129-0764"
       affiliations: 
-        - name: IRD, AMAP
+        - name: IRD, AMAP, Montpellier
           url: "https://dimitri-justeau.github.io/"
           
           
@@ -41,7 +26,7 @@ book:
       orcid: "0000-0002-9426-2583"
       url: "https://orcid.org/0000-0002-9426-2583"
       affiliations: 
-        - name: LIRMM
+        - name: LIRMM, CNRS, Montpellier
           url: "https://maximiliense.github.io/"
           
           
@@ -49,15 +34,53 @@ book:
       orcid: "0000-0002-1275-4673"
       url: "https://orcid.org/0000-0002-1275-4673"
       affiliations: 
-        - name: IRD, AMAP
+        - name: IRD, AMAP, Montpellier
           url: "https://amap.cirad.fr/fr/index.php"
+
+
+    - name: "Benjamin Bourel"
+      orcid: "0000-0001-8312-5471"
+      url: "https://orcid.org/0000-0001-8312-5471"
+      affiliations:
+        - name: INRIA, University of Montpellier, LIRMM, CNRS
+          url: "https://www-sop.inria.fr/members/Benjamin.Bourel"
+
+
+    - name: "Margot Challand"
+      orcid: "0000-0001-6681-9906"
+      url: "https://orcid.org/0000-0001-6681-9906"
+      affiliations:
+        - name: Institut Agro Montpellier
+    
+    - name: "Titouan Lorieul"
+      orcid: "0000-0001-5228-9238"
+      url: "https://orcid.org/0000-0001-5228-9238"
+      affiliations:
+        - name: Institut Agro Montpellier
+
+
+    - name: "Camille Coux"
+      orcid: "0000-0002-6346-9194"
+      url: "https://orcid.org/0000-0002-6346-9194"
+      affiliations: 
+        - name: FRB-CESAB
+          url: "https://www.fondationbiodiversite.fr/en/membre/camille-coux/"
+
+
+    - name: "Romain Frelat"
+      orcid: "0000-0002-8631-4398"
+      url: "https://orcid.org/0000-0002-8631-4398"
+      affiliations: 
+        - name: FRB-CESAB
+          url: "https://www.fondationbiodiversite.fr/en/membre/romain-frelat/"
       
+
   date: today
   description:  |
     FRB-CESAB training course
     <br /><br />
-    <a href="https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/develop-skills/biodiversity-data-management/">
-      <img class="logo" src="https://raw.githubusercontent.com/AI-ecol/AI-ecol.github.io/main/images/banner_ia.png" style="width: 100%;" />
+    <a href="https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/develop-skills/ia-pour-les-ecologues/">
+      <img class="logo" src="https://raw.githubusercontent.com/AI-ecol/AI-ecol.github.io/main/images/banner-ia.png" style="width: 100%;" />
     </a>
 
   favicon: images/logo-biodiv-ia-si.png
@@ -77,9 +100,6 @@ book:
 
   chapters:
     - index.qmd
-    - part: "Prerequisites"
-      chapters: 
-        - chapters/setting-up-r.qmd
     - part: "Courses"
       chapters: 
         - chapters/coming-soon.qmd

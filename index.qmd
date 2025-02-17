@@ -5,12 +5,12 @@ toc: true
 # Welcome {.unnumbered}
 
 ::: {.callout-note}
-## Registrations for the 2025 session are not yet open
+## Registrations for the 2025 session are closed.
 
 
 {{< fa hand-point-right >}}&nbsp; Subscribe to the 
 [FRB-CESAB newsletter](https://www.fondationbiodiversite.fr/en/newsletter/) 
-to stay informed. More information will soon be available on the [FRB-CESAB website](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/develop-skills/).
+to stay informed. 
 :::
 
 
@@ -21,41 +21,105 @@ This five-day training course, organized by the [FRB-CESAB](https://www.fondatio
 
 ## Program {.unnumbered}
 
-**Introduction and overview of main AI concepts**
+**Monday 19 May 2025 – 9:00 am: Introduction**
+
+Presentation of the course and speakers  
+
+Introduction to AI: historical background  
+
+Introduction to Python environment and tools 
+
+Data science in Python 
+
+**Tuesday 20 May 2025 – Machine learning 1**
+
+Linear and general regression : from a ML perspective 
+
+Random forest and K-means 
+
+Practical concepts and practice 
 
 
-**Introduction to data science**
+**Wednesday 21 May 2025 – Machine learning 2**
 
+Dataset selection 
 
-**Supervised learning, unsupervised learning**
+Supervised learning 
 
+Unsupervised learning 
 
-**Deep learning**
+Dimensionality reduction 
 
+**Thursday 22 May 2025 – Deep learning**
 
-**Symbolic AI**
+DL concepts  
 
+Practices with PlantNet 
+
+**Friday 23 May 2025 – Symbolic AI**
+
+Introduction 
+
+Practice: Designing protected areas in New Caledonia 
+
+Practice: Crop rotation planning 
+
+Feedback time and conclusion 
 
 ## Prerequisites {.unnumbered}
 
 You must have a strong programming background, at least in R. 
 
-Familiarity with Python is preferred, but not mandatory. In fact, to make sure that we all start on similar bases, we require that you follow these tutorials (list coming soon) **before attending the training course**.
+Familiarity with Python is preferred, but not mandatory. In fact, to make sure that we all start on similar bases, we require that you follow these tutorials  **before attending the training course**.
 
-{{< fa hand-point-right >}}&nbsp; Point at tutorial
 
- 
+{{< fa hand-point-right >}}&nbsp; [https://www.learnpython.org/](https://www.learnpython.org/)
+
+Under the “Learn the basics”, please go through all the following pages:
+
+•	Hello, World!
+
+•	Variables and Types
+
+•	Lists
+
+•	Basic Operators
+
+•	String Formatting
+
+•	Basic String Operations
+
+•	Conditions
+
+•	Loops
+
+•	Functions
+
+•	Classes and Objects
+
+•	Dictionaries
+
+•	Modules and Packages
+
+•	Input and Output
+
+Each section allows you to interact with a built-in Python console where you can copy/paste and edit the commands. The sections end with a small exercise, which we recommend you do. You may navigate from one section to the other by clicking on the “next tutorial” button (you don’t have to take the test – but are welcome to if you enjoy it)
+
+**We will not control whether you followed the tutorial, but trust that you will to collectively ensure the group has a common base to start from**
+
 
 
 ## Material {.unnumbered}
 
 All the material used in this training course (slides, data, exercises) is available at: <https://github.com/ai-ecol/>
 
+## Acknowledgements
 
+Thanks to Sakina Ayata for comments and advice in the set-up of this training course, to Nicolas Casajus for constant conceptual and technical support. Thanks to Maija Miikkola for all the logistical and administrative help, and to Violette Silve for the visual support on the FRB website.
 
 ## Citation {.unnumbered}
 
-> Ayata S-D, Blondel L, Coux c, Justea-Allaire D, Servajean M, Tresson P. (2024) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: <https://ai-ecol.github.io/>
+> Blondel L, Bourel B, Challand M, Coux C, Justea-Allaire D, Frelat R, Servajean M, Tresson P. (2025) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: <https://ai-ecol.github.io/>
 
 
 ## Contributions {.unnumbered}
