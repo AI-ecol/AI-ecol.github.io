@@ -102,11 +102,15 @@ book:
     - index.qmd
     - part: "Courses"
       chapters: 
-        - chapters/coming-soon.qmd
         - chapters/day1-courses.qmd
+        - chapters/day2-courses.qmd
+        - chapters/day5-courses.qmd
     - part: "Exercises"
       chapters: 
         - chapters/day1-colab-notebooks.qmd
+        - chapters/day2-colab-notebooks.qmd
+        - chapters/day3-colab-notebooks.qmd
+        - chapters/day5-colab-notebooks.qmd
     - part: "Resources"
       chapters: 
         - chapters/coming-soon.qmd

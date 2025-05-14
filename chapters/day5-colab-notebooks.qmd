@@ -1,0 +1,6 @@
+## DAY 5 - Introduction to Symbolic AI {.unnumbered}
+
+Colab notebook: [Conservation planning with pychoco](https://colab.research.google.com/drive/1Cpm0mN0Qv-TJiJGg_cAfZWivHa44Ba_5#scrollTo=RrKH831IiBm2)
+
+
+pychoco [cheatsheet](https://raw.githubusercontent.com/AI-ecol/conservation_planning_practice_resources/refs/heads/master/pychoco-cheatsheet.pdf) 

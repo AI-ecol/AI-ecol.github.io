@@ -1,0 +1,3 @@
+## DAY 3 - Unsupervised Learning & Dimensionality Reduction {.unnumbered}
+
+Colab notebook: [Unsupervised learning and dimensionality reduction](https://colab.research.google.com/drive/1chCLOGbWDeGdLUqJbIEQR9wYtv15l-3C?usp=sharing#scrollTo=pvf1m_Y8zKlD)
