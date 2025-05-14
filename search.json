@@ -99,5 +99,16 @@
       "Courses",
       "Coming soon"
     ]
+  },
+  {
+    "objectID": "chapters/day1-courses.html",
+    "href": "chapters/day1-courses.html",
+    "title": "DAY 1 - Introduction to AI",
+    "section": "",
+    "text": "SF AI Ethics\nHistorical background",
+    "crumbs": [
+      "Courses",
+      "DAY 1 - Introduction to AI"
+    ]
   }
 ]
