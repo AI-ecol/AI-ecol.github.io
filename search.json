@@ -90,25 +90,91 @@
     ]
   },
   {
+    "objectID": "chapters/day1-courses.html",
+    "href": "chapters/day1-courses.html",
+    "title": "DAY 1 - Introduction to AI",
+    "section": "",
+    "text": "Slides: SF AI Ethics\nSlides: Historical background",
+    "crumbs": [
+      "Courses",
+      "DAY 1 - Introduction to AI"
+    ]
+  },
+  {
+    "objectID": "chapters/day2-courses.html",
+    "href": "chapters/day2-courses.html",
+    "title": "DAY 2 - Introduction to machine learning",
+    "section": "",
+    "text": "Slides: Machine Learning",
+    "crumbs": [
+      "Courses",
+      "DAY 2 - Introduction to machine learning"
+    ]
+  },
+  {
+    "objectID": "chapters/day5-courses.html",
+    "href": "chapters/day5-courses.html",
+    "title": "DAY 5 - Introduction to Symbolic AI",
+    "section": "",
+    "text": "Slides: Intro to automated reasoning",
+    "crumbs": [
+      "Courses",
+      "DAY 5 - Introduction to Symbolic AI"
+    ]
+  },
+  {
+    "objectID": "chapters/day1-colab-notebooks.html",
+    "href": "chapters/day1-colab-notebooks.html",
+    "title": "DAY 1 - Introduction to data science and Python",
+    "section": "",
+    "text": "Colab notebook: Intro to data science",
+    "crumbs": [
+      "Exercises",
+      "DAY 1 - Introduction to data science and Python"
+    ]
+  },
+  {
+    "objectID": "chapters/day2-colab-notebooks.html",
+    "href": "chapters/day2-colab-notebooks.html",
+    "title": "DAY 2 - Datasets and supervised learning",
+    "section": "",
+    "text": "Colab notebook: Supervised learning colab notebook",
+    "crumbs": [
+      "Exercises",
+      "DAY 2 - Datasets and supervised learning"
+    ]
+  },
+  {
+    "objectID": "chapters/day3-colab-notebooks.html",
+    "href": "chapters/day3-colab-notebooks.html",
+    "title": "DAY 3 - Unsupervised Learning & Dimensionality Reduction",
+    "section": "",
+    "text": "Colab notebook: Unsupervised learning and dimensionality reduction",
+    "crumbs": [
+      "Exercises",
+      "DAY 3 - Unsupervised Learning & Dimensionality Reduction"
+    ]
+  },
+  {
+    "objectID": "chapters/day5-colab-notebooks.html",
+    "href": "chapters/day5-colab-notebooks.html",
+    "title": "DAY 5 - Introduction to Symbolic AI",
+    "section": "",
+    "text": "Colab notebook: Conservation planning with pychoco\npychoco cheatsheet",
+    "crumbs": [
+      "Exercises",
+      "DAY 5 - Introduction to Symbolic AI"
+    ]
+  },
+  {
     "objectID": "chapters/coming-soon.html",
     "href": "chapters/coming-soon.html",
     "title": "Coming soon",
     "section": "",
     "text": "…",
     "crumbs": [
-      "Courses",
+      "Resources",
       "Coming soon"
-    ]
-  },
-  {
-    "objectID": "chapters/day1-courses.html",
-    "href": "chapters/day1-courses.html",
-    "title": "DAY 1 - Introduction to AI",
-    "section": "",
-    "text": "SF AI Ethics\nHistorical background",
-    "crumbs": [
-      "Courses",
-      "DAY 1 - Introduction to AI"
     ]
   }
 ]
