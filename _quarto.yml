@@ -103,9 +103,10 @@ book:
     - part: "Courses"
       chapters: 
         - chapters/coming-soon.qmd
+        - chapters/day1-courses.qmd
     - part: "Exercises"
       chapters: 
-        - chapters/coming-soon.qmd
+        - chapters/day1-colab-notebooks.qmd
     - part: "Resources"
       chapters: 
         - chapters/coming-soon.qmd
