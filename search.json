@@ -90,13 +90,35 @@
     ]
   },
   {
+    "objectID": "chapters/day1-courses.html",
+    "href": "chapters/day1-courses.html",
+    "title": "DAY 1 - Introduction to AI",
+    "section": "",
+    "text": "Slides: SF AI Ethics\nSlides: Historical background",
+    "crumbs": [
+      "Courses",
+      "DAY 1 - Introduction to AI"
+    ]
+  },
+  {
+    "objectID": "chapters/day1-colab-notebooks.html",
+    "href": "chapters/day1-colab-notebooks.html",
+    "title": "DAY 1 - Introduction to data science and Python",
+    "section": "",
+    "text": "Colab notebook: Intro to data science",
+    "crumbs": [
+      "Exercises",
+      "DAY 1 - Introduction to data science and Python"
+    ]
+  },
+  {
     "objectID": "chapters/coming-soon.html",
     "href": "chapters/coming-soon.html",
     "title": "Coming soon",
     "section": "",
     "text": "…",
     "crumbs": [
-      "Courses",
+      "Resources",
       "Coming soon"
     ]
   }
