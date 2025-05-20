@@ -1,3 +1,5 @@
 ## DAY 2 - Datasets and supervised learning {.unnumbered}
 
+Colab notebook: [Morning](https://colab.research.google.com/drive/1c-y_KmrnVnMASyJ_zESgW_ID0B0oHBQD#scrollTo=tU_MVYBaVMSz)
+
 Colab notebook: [Supervised learning colab notebook](https://colab.research.google.com/drive/1cTaU-FAErdaAiV15enBG9LhgScdah3Qo?usp=sharing#scrollTo=x3Y5B3WYTE0B)
