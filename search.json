@@ -101,6 +101,17 @@
     ]
   },
   {
+    "objectID": "chapters/day2-courses.html",
+    "href": "chapters/day2-courses.html",
+    "title": "DAY 2 - Introduction to machine learning",
+    "section": "",
+    "text": "Slides: Machine Learning",
+    "crumbs": [
+      "Courses",
+      "DAY 2 - Introduction to machine learning"
+    ]
+  },
+  {
     "objectID": "chapters/day1-colab-notebooks.html",
     "href": "chapters/day1-colab-notebooks.html",
     "title": "DAY 1 - Introduction to data science and Python",
@@ -109,6 +120,17 @@
     "crumbs": [
       "Exercises",
       "DAY 1 - Introduction to data science and Python"
+    ]
+  },
+  {
+    "objectID": "chapters/day2-colab-notebooks.html",
+    "href": "chapters/day2-colab-notebooks.html",
+    "title": "DAY 2 - Datasets and supervised learning",
+    "section": "",
+    "text": "Colab notebook: Supervised learning colab notebook",
+    "crumbs": [
+      "Exercises",
+      "DAY 2 - Datasets and supervised learning"
     ]
   },
   {
