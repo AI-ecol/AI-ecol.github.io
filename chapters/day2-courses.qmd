@@ -2,7 +2,6 @@
 
 Slides: [Machine Learning](https://docs.google.com/presentation/d/1LsSjXrXwH5VfLomZQA5KQhMHndyItxO66oCJpPE8oJs/edit?slide=id.g319bda8980d_0_0#slide=id.g319bda8980d_0_0)
 
-Slides: [Gaussian Mixture Model](https://docs.google.com/presentation/d/1ICe_xkVoJlV3fWkNLQFCFq9uI0OBHZpd8dVc2m9veHE/edit?slide=id.p#slide=id.p)
 
 Slides:[overfitting:](https://github.com/ptresson/overfitting_sampling_presentation/blob/main/main.pdf)
 

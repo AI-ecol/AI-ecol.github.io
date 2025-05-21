@@ -1,4 +1,6 @@
 ## DAY 3 - Unsupervised machine learning  {.unnumbered}
 
-Slides: [Projections and clusterings:](https://github.com/ptresson/projection_clustering_presentation/blob/main/main.pdf)
+Slides: [Projections and clusterings (Paul)](https://github.com/ptresson/projection_clustering_presentation/blob/main/main.pdf)
 
+
+Slides: [Gaussian Mixture Model (Léo)](https://docs.google.com/presentation/d/1ICe_xkVoJlV3fWkNLQFCFq9uI0OBHZpd8dVc2m9veHE/edit?slide=id.p#slide=id.p)
