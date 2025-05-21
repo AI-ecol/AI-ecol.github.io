@@ -1,0 +1,3 @@
+## DAY 4 - Deep learning {.unnumbered}
+
+[Brief history of recent deep learning]:(https://github.com/ptresson/dl_history_presentation/blob/main/main.pdf)
