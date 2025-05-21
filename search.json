@@ -112,6 +112,17 @@
     ]
   },
   {
+    "objectID": "chapters/day3-courses.html",
+    "href": "chapters/day3-courses.html",
+    "title": "DAY 3 - Unsupervised machine learning",
+    "section": "",
+    "text": "Slides: Projections and clusterings:",
+    "crumbs": [
+      "Courses",
+      "DAY 3 - Unsupervised machine learning"
+    ]
+  },
+  {
     "objectID": "chapters/day1-colab-notebooks.html",
     "href": "chapters/day1-colab-notebooks.html",
     "title": "DAY 1 - Introduction to data science and Python",
@@ -131,6 +142,17 @@
     "crumbs": [
       "Exercises",
       "DAY 2 - Datasets and supervised learning"
+    ]
+  },
+  {
+    "objectID": "chapters/day3-colab-notebooks.html",
+    "href": "chapters/day3-colab-notebooks.html",
+    "title": "DAY 3 - Unsupervised Learning & Dimensionality Reduction",
+    "section": "",
+    "text": "Colab notebook: Unsupervised learning and dimensionality reduction",
+    "crumbs": [
+      "Exercises",
+      "DAY 3 - Unsupervised Learning & Dimensionality Reduction"
     ]
   },
   {
