@@ -105,7 +105,7 @@
     "href": "chapters/day2-courses.html",
     "title": "DAY 2 - Introduction to machine learning",
     "section": "",
-    "text": "Slides: Machine Learning\nSlides: Gaussian Mixture Model\nSlides:overfitting:\nSlidesDecision trees and random forests:",
+    "text": "Slides: Machine Learning\nSlides:overfitting:\nSlidesDecision trees and random forests:",
     "crumbs": [
       "Courses",
       "DAY 2 - Introduction to machine learning"
@@ -116,7 +116,7 @@
     "href": "chapters/day3-courses.html",
     "title": "DAY 3 - Unsupervised machine learning",
     "section": "",
-    "text": "Slides: Projections and clusterings:",
+    "text": "Slides: Projections and clusterings (Paul)\nSlides: Gaussian Mixture Model (Léo)",
     "crumbs": [
       "Courses",
       "DAY 3 - Unsupervised machine learning"
