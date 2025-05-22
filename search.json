@@ -123,6 +123,17 @@
     ]
   },
   {
+    "objectID": "chapters/day4-courses.html",
+    "href": "chapters/day4-courses.html",
+    "title": "DAY 4 - Deep learning",
+    "section": "",
+    "text": "Slides: Brief history of recent deep learning",
+    "crumbs": [
+      "Courses",
+      "DAY 4 - Deep learning"
+    ]
+  },
+  {
     "objectID": "chapters/day1-colab-notebooks.html",
     "href": "chapters/day1-colab-notebooks.html",
     "title": "DAY 1 - Introduction to data science and Python",
