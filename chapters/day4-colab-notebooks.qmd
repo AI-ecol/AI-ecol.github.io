@@ -2,3 +2,4 @@
 
 Colab notebook: [Morning](https://colab.research.google.com/drive/1FJZfnTVhTLC4jB6i_wfihllWCr70RZ-P?usp=sharing)
 
+Colab notebook: [Afternoon](https://colab.research.google.com/drive/13URA_5K1ZDj0tUnSRywJXsFYgNEQw4gK?usp=sharing)
