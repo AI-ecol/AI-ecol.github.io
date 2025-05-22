@@ -1,6 +1,4 @@
 ## DAY 4 - Deep learning {.unnumbered}
 
-Colab notebook: []()
+Colab notebook: [Morning](https://colab.research.google.com/drive/1FJZfnTVhTLC4jB6i_wfihllWCr70RZ-P?usp=sharing)
 
-
-pychoco []() 

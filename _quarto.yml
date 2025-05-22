@@ -112,7 +112,7 @@ book:
         - chapters/day1-colab-notebooks.qmd
         - chapters/day2-colab-notebooks.qmd
         - chapters/day3-colab-notebooks.qmd
-        # - chapters/day4-colab-notebooks.qmd
+        - chapters/day4-colab-notebooks.qmd
         # - chapters/day5-colab-notebooks.qmd
     - part: "Resources"
       chapters: 
