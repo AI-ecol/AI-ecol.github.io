@@ -1,0 +1,6 @@
+## DAY 4 - Deep learning {.unnumbered}
+
+Colab notebook: []()
+
+
+pychoco []() 

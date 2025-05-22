@@ -105,7 +105,7 @@ book:
         - chapters/day1-courses.qmd
         - chapters/day2-courses.qmd
         - chapters/day3-courses.qmd
-        #- chapters/day4-courses.qmd
+        - chapters/day4-courses.qmd
         #- chapters/day5-courses.qmd
     - part: "Exercises"
       chapters: 
