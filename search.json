@@ -134,6 +134,17 @@
     ]
   },
   {
+    "objectID": "chapters/day5-courses.html",
+    "href": "chapters/day5-courses.html",
+    "title": "DAY 5 - Introduction to Symbolic AI",
+    "section": "",
+    "text": "Slides: Intro to automated reasoning",
+    "crumbs": [
+      "Courses",
+      "DAY 5 - Introduction to Symbolic AI"
+    ]
+  },
+  {
     "objectID": "chapters/day1-colab-notebooks.html",
     "href": "chapters/day1-colab-notebooks.html",
     "title": "DAY 1 - Introduction to data science and Python",
@@ -175,6 +186,17 @@
     "crumbs": [
       "Exercises",
       "DAY 4 - Deep learning"
+    ]
+  },
+  {
+    "objectID": "chapters/day5-colab-notebooks.html",
+    "href": "chapters/day5-colab-notebooks.html",
+    "title": "DAY 5 - Introduction to Symbolic AI",
+    "section": "",
+    "text": "Colab notebook: Conservation planning with pychoco\npychoco cheatsheet",
+    "crumbs": [
+      "Exercises",
+      "DAY 5 - Introduction to Symbolic AI"
     ]
   },
   {
