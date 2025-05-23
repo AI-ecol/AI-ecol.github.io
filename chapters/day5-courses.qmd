@@ -1,3 +1,5 @@
 ## DAY 5 - Introduction to Symbolic AI {.unnumbered}
 
-Slides: [Intro to automated reasoning](https://drive.google.com/file/d/1I4GczbrLPlftFLhD0mQU6Cu0Kbg90K6Q/view?usp=sharing)
+Slides: [Intro to automated reasoning (morning)](https://drive.google.com/file/d/1I4GczbrLPlftFLhD0mQU6Cu0Kbg90K6Q/view?usp=sharing)
+
+Slides: [Crop plannification (afternoon)](https://drive.google.com/file/d/1vRjoBt6mH76ZLT-53bGfrlrXVlJBvhkP/view?usp=sharing)
