@@ -1,3 +1,3 @@
 ## DAY 5 - Introduction to Symbolic AI {.unnumbered}
 
-Slides: [Intro to automated reasoning](https://docs.google.com/presentation/d/1cK5lIWxU3LacICyzI6pO_rTVDF3EuPG8/edit?slide=id.p4#slide=id.p4)
+Slides: [Intro to automated reasoning](https://drive.google.com/file/d/1I4GczbrLPlftFLhD0mQU6Cu0Kbg90K6Q/view?usp=sharing)
