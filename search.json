@@ -90,14 +90,14 @@
     ]
   },
   {
-    "objectID": "chapters/day1-courses.html",
-    "href": "chapters/day1-courses.html",
-    "title": "DAY 1 - Introduction to AI",
+    "objectID": "chapters/day1_courses_pdf.html",
+    "href": "chapters/day1_courses_pdf.html",
+    "title": "Day 1",
     "section": "",
-    "text": "Slides: SF AI Ethics\nSlides: Historical background",
+    "text": "- Introduction: AI SF & Ethics\n\n\n\n   Author: Léo Blondel   Slides: &lt;day1_intro_AI_SF_Ethics.pdf&gt;\n\n\n\n\n\n\n\n\nDay 1 - Historical background\n   Author: Dimitri Justeau-Allaire   Slides: &lt;day1_2_historical_background.pdf&gt; :::",
     "crumbs": [
       "Courses",
-      "DAY 1 - Introduction to AI"
+      "Day 1"
     ]
   },
   {
