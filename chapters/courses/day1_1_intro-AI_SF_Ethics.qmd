@@ -4,12 +4,12 @@
 
 <br />
 {{< fa user >}} &nbsp;**Author:** [Léo Blondel](https://www.alien.club/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <day1_intro_AI_SF_Ethics >
+{{< fa globe >}} &nbsp;**Slides:** <day1_intro_AI_SF_Ethics.pdf>
 :::
 
 
 <br />
 
 <div class="container">
-  <iframe class="responsive-iframe" src="courses/day1_intro_AI_SF_Ethics"></iframe>
+  <iframe class="responsive-iframe" src="courses/day1_intro_AI_SF_Ethics.pdf"></iframe>
 </div> 

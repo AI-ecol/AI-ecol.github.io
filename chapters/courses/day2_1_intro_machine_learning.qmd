@@ -1,0 +1,15 @@
+
+::: {.callout-note icon=true appearance="simple"}
+## Day 2 - Introduction to machine learning {.unnumbered}
+
+<br />
+{{< fa user >}} &nbsp;**Author:**  [Léo Blondel](https://www.alien.club/)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <day2_1_intro_machine_learning.pdf>
+:::
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="courses/day2_1_intro_machine_learning.pdf"></iframe>
+</div> 

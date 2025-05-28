@@ -1,0 +1,34 @@
+
+::: {.callout-note icon=true appearance="simple"}
+## Day 1 {.unnumbered}
+
+### - Introduction: AI SF & Ethics 
+
+<br />
+{{< fa user >}} &nbsp;**Author:** [Léo Blondel](https://www.alien.club/)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <day1_intro_AI_SF_Ethics.pdf>
+:::
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="courses/day1_intro_AI_SF_Ethics.pdf"></iframe>
+</div> 
+
+
+<br /><br /><br />
+
+### Day 1 - Historical background
+
+<br />
+{{< fa user >}} &nbsp;**Author:** [Dimitri Justeau-Allaire](https://dimitri-justeau.github.io/)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <day1_2_historical_background.pdf>
+:::
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="courses/day1_2_historical_background.pdf"></iframe>
+</div> 

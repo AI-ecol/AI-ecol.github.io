@@ -1,0 +1,15 @@
+
+::: {.callout-note icon=true appearance="simple"}
+## Day 2 - Sampling and overfitting {.unnumbered}
+
+<br />
+{{< fa user >}} &nbsp;**Author:**  [Paul Tresson](http://paul.tresson.eu/)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <day2_2_overfitting.pdf>
+:::
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="courses/day2_2_overfitting.pdf"></iframe>
+</div> 

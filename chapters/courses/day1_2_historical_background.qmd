@@ -4,12 +4,12 @@
 
 <br />
 {{< fa user >}} &nbsp;**Author:** [Dimitri Justeau-Allaire](https://dimitri-justeau.github.io/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <day1_2_historical_background>
+{{< fa globe >}} &nbsp;**Slides:** <day1_2_historical_background.pdf>
 :::
 
 
 <br />
 
 <div class="container">
-  <iframe class="responsive-iframe" src="courses/day1_intro_AI_SF_Ethics"></iframe>
+  <iframe class="responsive-iframe" src="courses/day1_2_historical_background.pdf"></iframe>
 </div> 
