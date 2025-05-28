@@ -112,36 +112,36 @@
     ]
   },
   {
-    "objectID": "chapters/day3-courses.html",
-    "href": "chapters/day3-courses.html",
-    "title": "DAY 3 - Unsupervised machine learning",
+    "objectID": "chapters/day3_courses_pdf.html",
+    "href": "chapters/day3_courses_pdf.html",
+    "title": "Day 3",
     "section": "",
-    "text": "Slides: Projections and clusterings (Paul)\nSlides: Gaussian Mixture Model (Léo)",
+    "text": "Projections and clustering\n   Author: Paul Tresson   Slides: https://ai-ecol.github.io/chapters/day3_1_projections_and_clustering.pdf\n\n\n\n\n\n\n\nGaussian Mixture Models\n   Author: Léo Blondel   Slides: https://ai-ecol.github.io/chapters/day3_2_GMM.pdf",
     "crumbs": [
       "Courses",
-      "DAY 3 - Unsupervised machine learning"
+      "Day 3"
     ]
   },
   {
-    "objectID": "chapters/day4-courses.html",
-    "href": "chapters/day4-courses.html",
-    "title": "DAY 4 - Deep learning",
+    "objectID": "chapters/day4_courses_pdf.html",
+    "href": "chapters/day4_courses_pdf.html",
+    "title": "Day 4",
     "section": "",
-    "text": "Slides: Brief history of recent deep learning",
+    "text": "A brief history of deep learning\n   Author: Paul Tresson   Slides: https://ai-ecol.github.io/chapters/day4_history_DL.pdf",
     "crumbs": [
       "Courses",
-      "DAY 4 - Deep learning"
+      "Day 4"
     ]
   },
   {
-    "objectID": "chapters/day5-courses.html",
-    "href": "chapters/day5-courses.html",
-    "title": "DAY 5 - Introduction to Symbolic AI",
+    "objectID": "chapters/day5_courses_pdf.html",
+    "href": "chapters/day5_courses_pdf.html",
+    "title": "Day 5",
     "section": "",
-    "text": "Slides: Intro to automated reasoning (morning)\nSlides: Crop plannification (afternoon)",
+    "text": "Introduction to automated reasoning and constraint programming\n   Author: Dimitri Justeau-Allaire   Slides: https://ai-ecol.github.io/chapters/day5_1_intro_to_automated_reasonning_CP.pdf\n\n\n\n\n\n\n\nAgronomic use case of constraint programming\n   Author: Margot Challand   Slides: https://ai-ecol.github.io/chapters/day5_2_agronomic_use_case_of_CP.pdf",
     "crumbs": [
       "Courses",
-      "DAY 5 - Introduction to Symbolic AI"
+      "Day 5"
     ]
   },
   {
