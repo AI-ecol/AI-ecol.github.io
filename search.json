@@ -94,21 +94,21 @@
     "href": "chapters/day1_courses_pdf.html",
     "title": "Day 1",
     "section": "",
-    "text": "Introduction: AI SF & Ethics\n   Author: Léo Blondel   Slides: https://github.com/AI-ecol/AI-ecol.github.io/chapters/courses/day1_1_intro_AI_SF_Ethics%20.pdf\n\n\n\n\n\n\n\nHistorical background\n   Author: Dimitri Justeau-Allaire   Slides: https://github.com/AI-ecol/AI-ecol.github.io/courses/day1_2_historical_background.pdf",
+    "text": "Introduction: AI SF & Ethics\n   Author: Léo Blondel   Slides: https://github.com/AI-ecol/AI-ecol.github.io/chapters/day1_1_intro_AI_SF_Ethics.pdf\n\n\n\n\n\n\n\nHistorical background\n   Author: Dimitri Justeau-Allaire   Slides: https://github.com/AI-ecol/AI-ecol.github.io/chapters/day1_2_historical_background.pdf",
     "crumbs": [
       "Courses",
       "Day 1"
     ]
   },
   {
-    "objectID": "chapters/day2-courses.html",
-    "href": "chapters/day2-courses.html",
-    "title": "DAY 2 - Introduction to machine learning",
+    "objectID": "chapters/day2_courses_pdf.html",
+    "href": "chapters/day2_courses_pdf.html",
+    "title": "Day 2",
     "section": "",
-    "text": "Slides: Machine Learning\nSlides:overfitting:\nSlidesDecision trees and random forests:",
+    "text": "Introduction to machine learning\n   Author: Léo Blondel   Slides: https://github.com/AI-ecol/AI-ecol.github.io/chapters/day2_1_intro_machine_learning.pdf\n\n\n\n\n\n\n\nOverfitting\n   Author: Paul Tresson   Slides: https://github.com/AI-ecol/AI-ecol.github.io/chapters/day2_2_overfitting.pdf\n\n\n\n\n\n\nDecision trees and random forest\n   Author: Paul Tresson   Slides: https://github.com/AI-ecol/AI-ecol.github.io/chapters/day2_3_random_forest.pdf",
     "crumbs": [
       "Courses",
-      "DAY 2 - Introduction to machine learning"
+      "Day 2"
     ]
   },
   {
