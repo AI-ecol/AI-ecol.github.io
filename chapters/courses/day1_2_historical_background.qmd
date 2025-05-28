@@ -1,0 +1,15 @@
+
+::: {.callout-note icon=true appearance="simple"}
+## Day 1 - Historical background {.unnumbered}
+
+<br />
+{{< fa user >}} &nbsp;**Author:** [Dimitri Justeau-Allaire](https://dimitri-justeau.github.io/)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <day1_2_historical_background>
+:::
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="courses/day1_intro_AI_SF_Ethics"></iframe>
+</div> 

@@ -1,0 +1,15 @@
+
+::: {.callout-note icon=true appearance="simple"}
+## Day 1 - Introduction: AI SF & Ethics {.unnumbered}
+
+<br />
+{{< fa user >}} &nbsp;**Author:** [Léo Blondel](https://www.alien.club/)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <day1_intro_AI_SF_Ethics >
+:::
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="courses/day1_intro_AI_SF_Ethics"></iframe>
+</div> 
