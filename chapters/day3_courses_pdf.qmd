@@ -1,0 +1,34 @@
+
+## Day 3 {.unnumbered}
+
+### Projections and clustering
+
+<br />
+{{< fa user >}} &nbsp;**Author:** [Paul Tresson](http://paul.tresson.eu/)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/day3_1_projections_and_clustering.pdf>
+
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="day3_1_projections_and_clustering.pdf"></iframe>
+</div> 
+
+
+<br /><br /><br />
+
+### Gaussian Mixture Models
+
+<br />
+{{< fa user >}} &nbsp;**Author:** [Léo Blondel](https://www.alien.club/)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/day3_2_GMM.pdf>
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="day3_2_GMM.pdf"></iframe>
+</div> 
+
+

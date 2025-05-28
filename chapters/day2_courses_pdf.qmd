@@ -5,7 +5,7 @@
 
 <br />
 {{< fa user >}} &nbsp;**Author:** [Léo Blondel](https://www.alien.club/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://github.com/AI-ecol/AI-ecol.github.io/chapters/day2_1_intro_machine_learning.pdf>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/day2_1_intro_machine_learning.pdf>
 
 
 
@@ -22,7 +22,7 @@
 
 <br />
 {{< fa user >}} &nbsp;**Author:** [Paul Tresson](http://paul.tresson.eu/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://github.com/AI-ecol/AI-ecol.github.io/chapters/day2_2_overfitting.pdf>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/day2_2_overfitting.pdf>
 
 
 <br />
@@ -31,12 +31,14 @@
   <iframe class="responsive-iframe" src="day2_2_overfitting.pdf"></iframe>
 </div> 
 
+<br /><br /><br />
+
 
 ### Decision trees and random forest
 
 <br />
 {{< fa user >}} &nbsp;**Author:**  [Paul Tresson](http://paul.tresson.eu/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://github.com/AI-ecol/AI-ecol.github.io/chapters/day2_3_random_forest.pdf>
+{{< fa globe >}} &nbsp;**Slides:** <ai-ecol.github.io/chapters/day2_3_random_forest.pdf>
 
 
 <br />

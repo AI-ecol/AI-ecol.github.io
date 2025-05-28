@@ -1,0 +1,17 @@
+
+## Day 4 {.unnumbered}
+
+### A brief history of deep learning
+
+<br />
+{{< fa user >}} &nbsp;**Author:** [Paul Tresson](http://paul.tresson.eu/)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/day4_history_DL.pdf>
+
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="day4_history_DL.pdf"></iframe>
+</div> 
+
