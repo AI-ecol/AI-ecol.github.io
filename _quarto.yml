@@ -104,9 +104,9 @@ book:
       chapters: 
         - chapters/day1_courses_pdf.qmd
         - chapters/day2_courses_pdf.qmd
-        - chapters/day3-courses.qmd
-        - chapters/day4-courses.qmd
-        - chapters/day5-courses.qmd
+        - chapters/day3-courses_pdf.qmd
+        - chapters/day4-courses_pdf.qmd
+        - chapters/day5-courses_pdf.qmd
     - part: "Exercises"
       chapters: 
         - chapters/day1-colab-notebooks.qmd
