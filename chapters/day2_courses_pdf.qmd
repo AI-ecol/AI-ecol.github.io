@@ -1,0 +1,46 @@
+
+## Day 2 {.unnumbered}
+
+### Introduction to machine learning
+
+<br />
+{{< fa user >}} &nbsp;**Author:** [Léo Blondel](https://www.alien.club/)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://github.com/AI-ecol/AI-ecol.github.io/chapters/day2_1_intro_machine_learning.pdf>
+
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="day2_1_intro_machine_learning.pdf"></iframe>
+</div> 
+
+
+<br /><br /><br />
+
+### Overfitting
+
+<br />
+{{< fa user >}} &nbsp;**Author:** [Paul Tresson](http://paul.tresson.eu/)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://github.com/AI-ecol/AI-ecol.github.io/chapters/day2_2_overfitting.pdf>
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="day2_2_overfitting.pdf"></iframe>
+</div> 
+
+
+### Decision trees and random forest
+
+<br />
+{{< fa user >}} &nbsp;**Author:**  [Paul Tresson](http://paul.tresson.eu/)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://github.com/AI-ecol/AI-ecol.github.io/chapters/day2_3_random_forest.pdf>
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="day2_3_random_forest.pdf"></iframe>
+</div> 

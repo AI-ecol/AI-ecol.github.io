@@ -103,7 +103,7 @@ book:
     - part: "Courses"
       chapters: 
         - chapters/day1_courses_pdf.qmd
-        - chapters/day2-courses.qmd
+        - chapters/day2_courses_pdf.qmd
         - chapters/day3-courses.qmd
         - chapters/day4-courses.qmd
         - chapters/day5-courses.qmd

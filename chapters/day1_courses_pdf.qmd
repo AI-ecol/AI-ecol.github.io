@@ -5,7 +5,7 @@
 
 <br />
 {{< fa user >}} &nbsp;**Author:** [Léo Blondel](https://www.alien.club/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://github.com/AI-ecol/AI-ecol.github.io/chapters/courses/day1_1_intro_AI_SF_Ethics%20.pdf>
+{{< fa globe >}} &nbsp;**Slides:** <https://github.com/AI-ecol/AI-ecol.github.io/chapters/day1_1_intro_AI_SF_Ethics.pdf>
 
 
 
@@ -22,7 +22,7 @@
 
 <br />
 {{< fa user >}} &nbsp;**Author:** [Dimitri Justeau-Allaire](https://dimitri-justeau.github.io/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://github.com/AI-ecol/AI-ecol.github.io/courses/day1_2_historical_background.pdf>
+{{< fa globe >}} &nbsp;**Slides:** <https://github.com/AI-ecol/AI-ecol.github.io/chapters/day1_2_historical_background.pdf>
 
 
 <br />
