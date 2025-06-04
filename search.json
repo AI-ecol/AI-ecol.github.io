@@ -149,7 +149,7 @@
     "href": "chapters/day1-colab-notebooks.html",
     "title": "DAY 1 - Introduction to data science and Python",
     "section": "",
-    "text": "Colab notebook: Intro to Colab - Python libraries",
+    "text": "If you want to edit the colab notebook, go to File &gt; Save copy in Drive.\nColab notebook: Intro to Colab - Python libraries",
     "crumbs": [
       "Exercises",
       "DAY 1 - Introduction to data science and Python"
@@ -160,7 +160,7 @@
     "href": "chapters/day2-colab-notebooks.html",
     "title": "DAY 2 - Datasets and supervised learning",
     "section": "",
-    "text": "Colab notebook: Morning: Loss functions and gradient descent\nColab notebook: Supervised learning & validation strategies",
+    "text": "If you want to edit the colab notebook, go to File &gt; Save copy in Drive.\nColab notebook: Morning: Loss functions and gradient descent\nColab notebook: Supervised learning & validation strategies",
     "crumbs": [
       "Exercises",
       "DAY 2 - Datasets and supervised learning"
@@ -171,7 +171,7 @@
     "href": "chapters/day3-colab-notebooks.html",
     "title": "DAY 3 - Unsupervised Learning & Dimensionality Reduction",
     "section": "",
-    "text": "Colab notebook: Unsupervised learning, dimensionality reduction, clustering and GMMs\nColab notebook: Kaggle datasets to play with",
+    "text": "If you want to edit the colab notebook, go to File &gt; Save copy in Drive.\nColab notebook: Unsupervised learning, dimensionality reduction, clustering and GMMs\nColab notebook: Kaggle datasets to play with",
     "crumbs": [
       "Exercises",
       "DAY 3 - Unsupervised Learning & Dimensionality Reduction"
@@ -182,7 +182,7 @@
     "href": "chapters/day4-colab-notebooks.html",
     "title": "DAY 4 - Deep learning",
     "section": "",
-    "text": "Colab notebook: Morning: Introduction to DL and classification\nColab notebook: Afternoon: Introduction to SDMs by DL",
+    "text": "If you want to edit the colab notebook, go to File &gt; Save copy in Drive.\nColab notebook: Morning: Introduction to DL and classification\nColab notebook: Afternoon: Introduction to SDMs by DL",
     "crumbs": [
       "Exercises",
       "DAY 4 - Deep learning"
@@ -193,7 +193,7 @@
     "href": "chapters/day5-colab-notebooks.html",
     "title": "DAY 5 - Introduction to Symbolic AI",
     "section": "",
-    "text": "Colab notebook: Morning: Conservation planning with pychoco\npychoco cheatsheet\nColab notebook: Afternoon: Crop plannification using constraints programming",
+    "text": "If you want to edit the colab notebook, go to File &gt; Save copy in Drive.\nColab notebook: Morning: Conservation planning with pychoco\npychoco cheatsheet\nColab notebook: Afternoon: Crop plannification using constraints programming",
     "crumbs": [
       "Exercises",
       "DAY 5 - Introduction to Symbolic AI"
