@@ -1,3 +1,3 @@
 ## DAY 1 - Introduction to data science and Python {.unnumbered}
 
-Colab notebook: [Intro to data science](https://colab.research.google.com/drive/1EbguNCx6emgoubCYZoGy8DUtaqedTm-E?usp=sharing)
+Colab notebook: [Intro to Colab - Python libraries](https://colab.research.google.com/drive/1hpRnl32yQDLyrNZ0Pg00O_Ag7tkSrBcV?usp=sharing)

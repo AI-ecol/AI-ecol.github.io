@@ -1,5 +1,5 @@
 ## DAY 4 - Deep learning {.unnumbered}
 
-Colab notebook: [Morning](https://colab.research.google.com/drive/1FJZfnTVhTLC4jB6i_wfihllWCr70RZ-P?usp=sharing)
+Colab notebook: [Morning: Introduction to DL and classification](https://colab.research.google.com/drive/1fGAxxdoAYOQR9L4O0lU8HRCyEVoJKGXk?usp=sharing)
 
-Colab notebook: [Afternoon](https://colab.research.google.com/drive/13URA_5K1ZDj0tUnSRywJXsFYgNEQw4gK?usp=sharing)
+Colab notebook: [Afternoon: Introduction to SDMs by DL](https://colab.research.google.com/drive/1w8nLblNyG7BD9hKwzvt-IGjNJuh9E2T1?usp=sharing)

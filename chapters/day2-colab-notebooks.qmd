@@ -1,5 +1,5 @@
 ## DAY 2 - Datasets and supervised learning {.unnumbered}
 
-Colab notebook: [Morning](https://colab.research.google.com/drive/1c-y_KmrnVnMASyJ_zESgW_ID0B0oHBQD#scrollTo=tU_MVYBaVMSz)
+Colab notebook: [Morning: Loss functions and gradient descent](https://colab.research.google.com/drive/1yJJxjut1lJTBJ_AZJoLYz2MZgEHTQTZL?usp=sharing)
 
-Colab notebook: [Supervised learning colab notebook](https://colab.research.google.com/drive/1cTaU-FAErdaAiV15enBG9LhgScdah3Qo?usp=sharing#scrollTo=x3Y5B3WYTE0B)
+Colab notebook: [Supervised learning & validation strategies](https://colab.research.google.com/drive/1Ayi3n8n6eRFpzNsUVTrnQj2U1UTj6CNK?usp=sharing)

@@ -1,8 +1,8 @@
 ## DAY 5 - Introduction to Symbolic AI {.unnumbered}
 
-Colab notebook: [Conservation planning with pychoco (morning)](https://colab.research.google.com/drive/1Cpm0mN0Qv-TJiJGg_cAfZWivHa44Ba_5#scrollTo=RrKH831IiBm2)
+Colab notebook: [Morning: Conservation planning with pychoco](https://colab.research.google.com/drive/14fb9Ei_RNwjo7_uL6uz_dpQxrr8iQyc5?usp=sharing)
 
 
 pychoco [cheatsheet](https://raw.githubusercontent.com/AI-ecol/conservation_planning_practice_resources/refs/heads/master/pychoco-cheatsheet.pdf) 
 
-Colab notebook: [Crop plannification (afternoon)](https://colab.research.google.com/drive/1tJv8NhVG3l60N0m5x_KQHh65VWRpJLPJ?usp=sharing)
+Colab notebook: [Afternoon: Crop plannification using constraints programming](https://colab.research.google.com/drive/1KCMo-MUd-OUzowzz2_g58tjvfHwlVfni?usp=sharing)
