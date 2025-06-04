@@ -149,7 +149,7 @@
     "href": "chapters/day1-colab-notebooks.html",
     "title": "DAY 1 - Introduction to data science and Python",
     "section": "",
-    "text": "Colab notebook: Intro to data science",
+    "text": "Colab notebook: Intro to Colab - Python libraries",
     "crumbs": [
       "Exercises",
       "DAY 1 - Introduction to data science and Python"
@@ -160,7 +160,7 @@
     "href": "chapters/day2-colab-notebooks.html",
     "title": "DAY 2 - Datasets and supervised learning",
     "section": "",
-    "text": "Colab notebook: Morning\nColab notebook: Supervised learning colab notebook",
+    "text": "Colab notebook: Morning: Loss functions and gradient descent\nColab notebook: Supervised learning & validation strategies",
     "crumbs": [
       "Exercises",
       "DAY 2 - Datasets and supervised learning"
@@ -171,7 +171,7 @@
     "href": "chapters/day3-colab-notebooks.html",
     "title": "DAY 3 - Unsupervised Learning & Dimensionality Reduction",
     "section": "",
-    "text": "Colab notebook: Unsupervised learning and dimensionality reduction\nColab notebook: Kaggle datasets to play with",
+    "text": "Colab notebook: Unsupervised learning, dimensionality reduction, clustering and GMMs\nColab notebook: Kaggle datasets to play with",
     "crumbs": [
       "Exercises",
       "DAY 3 - Unsupervised Learning & Dimensionality Reduction"
@@ -182,7 +182,7 @@
     "href": "chapters/day4-colab-notebooks.html",
     "title": "DAY 4 - Deep learning",
     "section": "",
-    "text": "Colab notebook: Morning\nColab notebook: Afternoon",
+    "text": "Colab notebook: Morning: Introduction to DL and classification\nColab notebook: Afternoon: Introduction to SDMs by DL",
     "crumbs": [
       "Exercises",
       "DAY 4 - Deep learning"
@@ -193,7 +193,7 @@
     "href": "chapters/day5-colab-notebooks.html",
     "title": "DAY 5 - Introduction to Symbolic AI",
     "section": "",
-    "text": "Colab notebook: Conservation planning with pychoco (morning)\npychoco cheatsheet\nColab notebook: Crop plannification (afternoon)",
+    "text": "Colab notebook: Morning: Conservation planning with pychoco\npychoco cheatsheet\nColab notebook: Afternoon: Crop plannification using constraints programming",
     "crumbs": [
       "Exercises",
       "DAY 5 - Introduction to Symbolic AI"
