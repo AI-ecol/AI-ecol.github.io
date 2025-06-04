@@ -1,5 +1,7 @@
 ## DAY 2 - Datasets and supervised learning {.unnumbered}
 
+If you want to edit the colab notebook, go to File > Save copy in Drive.
+
 Colab notebook: [Morning: Loss functions and gradient descent](https://colab.research.google.com/drive/1yJJxjut1lJTBJ_AZJoLYz2MZgEHTQTZL?usp=sharing)
 
 Colab notebook: [Supervised learning & validation strategies](https://colab.research.google.com/drive/1Ayi3n8n6eRFpzNsUVTrnQj2U1UTj6CNK?usp=sharing)

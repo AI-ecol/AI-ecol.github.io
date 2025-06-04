@@ -1,5 +1,7 @@
 ## DAY 5 - Introduction to Symbolic AI {.unnumbered}
 
+If you want to edit the colab notebook, go to File > Save copy in Drive.
+
 Colab notebook: [Morning: Conservation planning with pychoco](https://colab.research.google.com/drive/14fb9Ei_RNwjo7_uL6uz_dpQxrr8iQyc5?usp=sharing)
 
 

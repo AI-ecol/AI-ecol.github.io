@@ -1,5 +1,7 @@
 ## DAY 4 - Deep learning {.unnumbered}
 
+If you want to edit the colab notebook, go to File > Save copy in Drive.
+
 Colab notebook: [Morning: Introduction to DL and classification](https://colab.research.google.com/drive/1fGAxxdoAYOQR9L4O0lU8HRCyEVoJKGXk?usp=sharing)
 
 Colab notebook: [Afternoon: Introduction to SDMs by DL](https://colab.research.google.com/drive/1w8nLblNyG7BD9hKwzvt-IGjNJuh9E2T1?usp=sharing)

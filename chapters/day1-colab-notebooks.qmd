@@ -1,3 +1,5 @@
 ## DAY 1 - Introduction to data science and Python {.unnumbered}
 
+If you want to edit the colab notebook, go to File > Save copy in Drive.
+
 Colab notebook: [Intro to Colab - Python libraries](https://colab.research.google.com/drive/1hpRnl32yQDLyrNZ0Pg00O_Ag7tkSrBcV?usp=sharing)
