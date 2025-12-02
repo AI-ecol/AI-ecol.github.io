@@ -58,6 +58,14 @@ book:
       affiliations:
         - name: Institut Agro Montpellier
 
+    
+    - name: "Sonia Mai Tieo"
+      orcid: "0000-0002-9514-356"
+      url: "https://orcid.org/0000-0002-9514-356X"
+      affiliations: 
+        - name: BioM team, Laboratoire d'Ecologie Systémique & Evolution, Université Paris-Saclay
+          url: "https://www.biodiversitydynamics.fr""
+
 
     - name: "Camille Coux"
       orcid: "0000-0002-6346-9194"
