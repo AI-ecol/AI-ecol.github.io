@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "AI for ecologists: a toolkit",
     "section": "",
-    "text": "Welcome\nThis five-day training course, organized by the FRB-CESAB aims to initiate ecologists to AI concepts and tools. The course will be a mix of lectures and hands-on practice based on different data types commonly encountered in ecology. The main objective of the course is to give to the participants the autonomy that will allow them to assess which algorithms are most adapted to their own research questions, where to find them and how to adjust them to the desired question.",
+    "text": "Welcome\nThis five-day training course, organized by the FRB-CESAB aims to initiate ecologists to AI concepts and tools. The course will be a mix of lectures and hands-on practice based on different data types commonly encountered in ecology. The main objective of the course is to give to the participants the autonomy that will allow them to assess which algorithms are most adapted to their own research questions, where to find them and how to adjust them to the desired question.\nFor the 2026 edition, Sonia Mai Tieo will join the team to expand the deep learning section a bit. The program might change a bit, more in terms of structure than in the contents listed below. Updates will come in spring 2026.",
     "crumbs": [
       "Welcome"
     ]
@@ -14,7 +14,7 @@
     "href": "index.html#program",
     "title": "AI for ecologists: a toolkit",
     "section": "Program",
-    "text": "Program\nMonday 19 May 2025 – 9:00 am: Introduction\nPresentation of the course and speakers\nIntroduction to AI: historical background\nIntroduction to Python environment and tools\nData science in Python\nTuesday 20 May 2025 – Machine learning 1\nLinear and general regression : from a ML perspective\nRandom forest and K-means\nPractical concepts and practice\nWednesday 21 May 2025 – Machine learning 2\nDataset selection\nSupervised learning\nUnsupervised learning\nDimensionality reduction\nThursday 22 May 2025 – Deep learning\nDL concepts\nPractices with PlantNet\nFriday 23 May 2025 – Symbolic AI\nIntroduction\nPractice: Designing protected areas in New Caledonia\nPractice: Crop rotation planning\nFeedback time and conclusion",
+    "text": "Program\nMonday June 1st 2026 – 9:00 am: Introduction\nPresentation of the course and speakers\nIntroduction to AI: historical background\nIntroduction to Python environment and tools\nData science in Python\nTuesday June 2nd 2026 – Machine learning 1\nLinear and general regression : from a ML perspective\nRandom forest and K-means\nPractical concepts and practice\nWednesday June 3rd 2026 – Machine learning 2\nDataset selection\nSupervised learning\nUnsupervised learning\nDimensionality reduction\nThursday June 4th 2026 – Deep learning\nDL concepts\nPractices with PlantNet\nFriday June5th 2026 – Symbolic AI\nIntroduction\nPractice: Designing protected areas in New Caledonia\nPractice: Crop rotation planning\nFeedback time and conclusion",
     "crumbs": [
       "Welcome"
     ]
@@ -54,7 +54,7 @@
     "href": "index.html#citation",
     "title": "AI for ecologists: a toolkit",
     "section": "Citation",
-    "text": "Citation\n\nBlondel L, Bourel B, Challand M, Coux C, Justea-Allaire D, Frelat R, Servajean M, Tresson P. (2025) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: https://ai-ecol.github.io/",
+    "text": "Citation\n\nBlondel L, Bourel B, Challand M, Coux C, Justea-Allaire D, Frelat R, Servajean M, Tieo S.M., Tresson P. (2026) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: https://ai-ecol.github.io/",
     "crumbs": [
       "Welcome"
     ]
