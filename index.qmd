@@ -5,12 +5,7 @@ toc: true
 # Welcome {.unnumbered}
 
 ::: {.callout-note}
-## Pre-registrations for the 2026 session are now OPEN !
-
-Visit [this page](https://www.fondationbiodiversite.fr/evenement/frb-cesab-lia-pour-les-ecologues-une-boite-a-outils-2026/) and fill out the pre-registration form at the bottom. 
-
-Pre-registrations close on Jan 16th, 2026.
-
+## Pre-registrations for the 2026 session are now closed.
 
 {{< fa hand-point-right >}}&nbsp; Subscribe to the 
 [FRB-CESAB newsletter](https://www.fondationbiodiversite.fr/en/newsletter/) 

@@ -22,12 +22,12 @@ book:
           url: "https://dimitri-justeau.github.io/"
           
           
-    - name: "Maximilien Servajean"
-      orcid: "0000-0002-9426-2583"
-      url: "https://orcid.org/0000-0002-9426-2583"
-      affiliations: 
-        - name: LIRMM, CNRS, Montpellier
-          url: "https://maximiliense.github.io/"
+    # - name: "Maximilien Servajean"
+    #   orcid: "0000-0002-9426-2583"
+    #   url: "https://orcid.org/0000-0002-9426-2583"
+    #   affiliations: 
+    #     - name: LIRMM, CNRS, Montpellier
+    #       url: "https://maximiliense.github.io/"
           
           
     - name: "Paul Tresson"
@@ -38,12 +38,12 @@ book:
           url: "https://amap.cirad.fr/fr/index.php"
 
 
-    - name: "Benjamin Bourel"
-      orcid: "0000-0001-8312-5471"
-      url: "https://orcid.org/0000-0001-8312-5471"
-      affiliations:
-        - name: INRIA, University of Montpellier, LIRMM, CNRS
-          url: "https://www-sop.inria.fr/members/Benjamin.Bourel"
+    # - name: "Benjamin Bourel"
+    #   orcid: "0000-0001-8312-5471"
+    #   url: "https://orcid.org/0000-0001-8312-5471"
+    #   affiliations:
+    #     - name: INRIA, University of Montpellier, LIRMM, CNRS
+    #       url: "https://www-sop.inria.fr/members/Benjamin.Bourel"
 
 
     - name: "Margot Challand"
@@ -52,11 +52,11 @@ book:
       affiliations:
         - name: Institut Agro Montpellier
     
-    - name: "Titouan Lorieul"
-      orcid: "0000-0001-5228-9238"
-      url: "https://orcid.org/0000-0001-5228-9238"
-      affiliations:
-        - name: Institut Agro Montpellier
+    # - name: "Titouan Lorieul"
+    #   orcid: "0000-0001-5228-9238"
+    #   url: "https://orcid.org/0000-0001-5228-9238"
+    #   affiliations:
+    #     - name: Institut Agro Montpellier
 
     
     - name: "Sonia Mai Tieo"
@@ -75,12 +75,12 @@ book:
           url: "https://www.fondationbiodiversite.fr/en/membre/camille-coux/"
 
 
-    - name: "Romain Frelat"
-      orcid: "0000-0002-8631-4398"
-      url: "https://orcid.org/0000-0002-8631-4398"
-      affiliations: 
-        - name: FRB-CESAB
-          url: "https://www.fondationbiodiversite.fr/en/membre/romain-frelat/"
+    # - name: "Romain Frelat"
+    #   orcid: "0000-0002-8631-4398"
+    #   url: "https://orcid.org/0000-0002-8631-4398"
+    #   affiliations: 
+    #     - name: FRB-CESAB
+    #       url: "https://www.fondationbiodiversite.fr/en/membre/romain-frelat/"
       
 
   date: today
