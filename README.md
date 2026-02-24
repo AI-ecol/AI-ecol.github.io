@@ -18,8 +18,7 @@ The course material currently online is from the 2025 edition and will be update
 
 ### Citation
 
-> Blondel L, Bourel B, Challand M, Coux C, Justeau-Allaire D, Frelat R, Servajean M, Tieo S.M., Tresson P. (2026) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: https://ai-ecol.github.io/
-
+> Blondel L, Bourel B, Challand M, Coux C, Justeau-Allaire D, Frelat R, Marcos D, Servajean M, Tieo S.M., Tresson P. (2026) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: <https://ai-ecol.github.io/>
 
 <hr />
 

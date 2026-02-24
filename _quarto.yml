@@ -13,6 +13,12 @@ book:
         - name: founder of ailen.club, Montpeliler
           url: "https://www.alien.club/"
 
+    - name: "Margot Challand"
+      orcid: "0000-0001-6681-9906"
+      url: "https://orcid.org/0000-0001-6681-9906"
+      affiliations:
+        - name: Institut Agro Montpellier
+
           
     - name: "Dimitri Justeau-Allaire"
       orcid: "0000-0003-4129-0764"
@@ -20,7 +26,23 @@ book:
       affiliations: 
         - name: IRD, AMAP, Montpellier
           url: "https://dimitri-justeau.github.io/"
-          
+    
+
+    - name: "Sonia Mai Tieo"
+      orcid: "0000-0002-9514-356"
+      url: "https://orcid.org/0000-0002-9514-356X"
+      affiliations: 
+        - name: BioM team, Laboratoire d'Ecologie Systémique & Evolution, Université Paris-Saclay
+          url: "https://www.biodiversitydynamics.fr"
+
+
+    - name: "Diego Marcos"
+      orcid: "0000-0001-5607-4445
+      url: "https://orcid.org/0000-0001-5607-4445"
+      affiliations: 
+        - name: INRIA, Université Montpellier
+          url: "https://sites.google.com/view/diego-marcos/home"
+
           
     # - name: "Maximilien Servajean"
     #   orcid: "0000-0002-9426-2583"
@@ -46,25 +68,15 @@ book:
     #       url: "https://www-sop.inria.fr/members/Benjamin.Bourel"
 
 
-    - name: "Margot Challand"
-      orcid: "0000-0001-6681-9906"
-      url: "https://orcid.org/0000-0001-6681-9906"
-      affiliations:
-        - name: Institut Agro Montpellier
+
+
+
     
     # - name: "Titouan Lorieul"
     #   orcid: "0000-0001-5228-9238"
     #   url: "https://orcid.org/0000-0001-5228-9238"
     #   affiliations:
     #     - name: Institut Agro Montpellier
-
-    
-    - name: "Sonia Mai Tieo"
-      orcid: "0000-0002-9514-356"
-      url: "https://orcid.org/0000-0002-9514-356X"
-      affiliations: 
-        - name: BioM team, Laboratoire d'Ecologie Systémique & Evolution, Université Paris-Saclay
-          url: "https://www.biodiversitydynamics.fr"
 
 
     - name: "Camille Coux"

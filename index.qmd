@@ -16,46 +16,52 @@ to stay informed.
 
 This five-day training course, organized by the [FRB-CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/) aims to initiate ecologists to AI concepts and tools. The course will be a mix of lectures and hands-on practice based on different data types commonly encountered in ecology. The main objective of the course is to give to the participants the autonomy that will allow them to assess which algorithms are most adapted to their own research questions, where to find them and how to adjust them to the desired question. 
 
-For the 2026 edition, Sonia Mai Tieo will join the team to expand the deep learning section a bit. The program might change a bit, more in terms of structure than in the contents listed below. Updates will come in spring 2026.
+For the 2026 edition, Sonia Mai Tieo will join the team to expand the deep learning section. 
+
+Based on last year's feedback, we will be spending less time introducing the Python environment and tools, and trust that you do that on your own using the scrpits we made last year -- see the Prerequisites section below.
+
 
 
 
 ## Program {.unnumbered}
 
-**Monday June 1st 2026 – 9:00 am: Introduction**
+**Monday June 1st 2026 – 9:00 am: Introduction and Machine learning**
 
 Presentation of the course and speakers  
 
 Introduction to AI: historical background  
 
-Introduction to Python environment and tools 
-
-Data science in Python 
-
-**Tuesday June 2nd 2026 – Machine learning 1**
-
 Linear and general regression : from a ML perspective 
-
-Random forest and K-means 
 
 Practical concepts and practice 
 
-
-**Wednesday June 3rd 2026 – Machine learning 2**
+**Tuesday June 2nd 2026 – Machine learning 2**
 
 Dataset selection 
 
-Supervised learning 
+Supervised learning : classification, regression, random forest
 
-Unsupervised learning 
+Dimensionality reduction
 
-Dimensionality reduction 
+Unsupervised learning : clustering
 
-**Thursday June 4th 2026 – Deep learning**
+**Wednesday June 3rd 2026 – Practice ML, introduction to Deep Learning**
 
-DL concepts  
+Hands on: practice 
 
-Practices with PlantNet 
+Deep learning: a history
+
+Deep learning: main concepts
+
+**Thursday June 4th 2026 – Deep learning: SDMs and LLMs**
+
+DL applied to Species Distribution Models
+
+Practice using PlantNet data
+
+DL applied to literature review: LLMs
+
+Practice 
 
 **Friday June5th 2026 – Symbolic AI**
 
@@ -71,12 +77,16 @@ Feedback time and conclusion
 
 You must have a strong programming background, at least in R. 
 
-Familiarity with Python is preferred, but not mandatory. In fact, to make sure that we all start on similar bases, we require that you follow these tutorials  **before attending the training course**.
+Familiarity with Python is preferred, but not mandatory. In fact, to make sure that we all start on similar bases, we require that you follow [this tutorial we made just for you <3](https://colab.research.google.com/drive/1hpRnl32yQDLyrNZ0Pg00O_Ag7tkSrBcV?usp=sharing) **before attending the training course**.
 
+You don't need to remember all of this by heart and you can go back to this at any time during the training course (and any other time too).
+
+
+If you think you need a Python refresher, you can also have a look at these fun interactive tutorials: 
 
 {{< fa hand-point-right >}}&nbsp; [https://www.learnpython.org/](https://www.learnpython.org/)
 
-Under the “Learn the basics”, please go through all the following pages:
+Under the “Learn the basics”, we recommend the following pages:
 
 •	Hello, World!
 
@@ -104,9 +114,10 @@ Under the “Learn the basics”, please go through all the following pages:
 
 •	Input and Output
 
+
 Each section allows you to interact with a built-in Python console where you can copy/paste and edit the commands. The sections end with a small exercise, which we recommend you do. You may navigate from one section to the other by clicking on the “next tutorial” button (you don’t have to take the test – but are welcome to if you enjoy it)
 
-**We will not control whether you followed the tutorial, but trust that you will to collectively ensure the group has a common base to start from**
+**We will not control whether you followed any of these tutorials, but trust that you will to collectively ensure the group has a common base to start from.**
 
 
 
@@ -116,11 +127,11 @@ All the material used in this training course (slides, data, exercises) is avail
 
 ## Acknowledgements
 
-Thanks to Sakina Ayata for comments and advice in the set-up of this training course, to Nicolas Casajus for constant conceptual and technical support. Thanks to Maija Miikkola for all the logistical and administrative help, and to Violette Silve for the visual support on the FRB website.
+Thanks to Sakina Ayata for comments and advice in the set-up of this training course, to Nicolas Casajus for constant conceptual and technical support. Thanks to Maija Miikkola and Maud Calmet for all the logistical and administrative help, and to Violette Silve for the visual support on the FRB website.
 
 ## Citation {.unnumbered}
 
-> Blondel L, Bourel B, Challand M, Coux C, Justea-Allaire D, Frelat R, Servajean M, Tieo S.M., Tresson P. (2026) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: <https://ai-ecol.github.io/>
+> Blondel L, Bourel B, Challand M, Coux C, Justeau-Allaire D, Frelat R, Marcos D, Servajean M, Tieo S.M., Tresson P. (2026) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: <https://ai-ecol.github.io/>
 
 
 ## Contributions {.unnumbered}
