@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "AI for ecologists: a toolkit",
     "section": "",
-    "text": "Welcome\nThis five-day training course, organized by the FRB-CESAB aims to initiate ecologists to AI concepts and tools. The course will be a mix of lectures and hands-on practice based on different data types commonly encountered in ecology. The main objective of the course is to give to the participants the autonomy that will allow them to assess which algorithms are most adapted to their own research questions, where to find them and how to adjust them to the desired question.\nFor the 2026 edition, Sonia Mai Tieo will join the team to expand the deep learning section a bit. The program might change a bit, more in terms of structure than in the contents listed below. Updates will come in spring 2026.",
+    "text": "Welcome\nThis five-day training course, organized by the FRB-CESAB aims to initiate ecologists to AI concepts and tools. The course will be a mix of lectures and hands-on practice based on different data types commonly encountered in ecology. The main objective of the course is to give to the participants the autonomy that will allow them to assess which algorithms are most adapted to their own research questions, where to find them and how to adjust them to the desired question.\nFor the 2026 edition, Sonia Mai Tieo will join the team to expand the deep learning section.\nBased on last year’s feedback, we will be spending less time introducing the Python environment and tools, and trust that you do that on your own using the scrpits we made last year – see the Prerequisites section below.",
     "crumbs": [
       "Welcome"
     ]
@@ -14,7 +14,7 @@
     "href": "index.html#program",
     "title": "AI for ecologists: a toolkit",
     "section": "Program",
-    "text": "Program\nMonday June 1st 2026 – 9:00 am: Introduction\nPresentation of the course and speakers\nIntroduction to AI: historical background\nIntroduction to Python environment and tools\nData science in Python\nTuesday June 2nd 2026 – Machine learning 1\nLinear and general regression : from a ML perspective\nRandom forest and K-means\nPractical concepts and practice\nWednesday June 3rd 2026 – Machine learning 2\nDataset selection\nSupervised learning\nUnsupervised learning\nDimensionality reduction\nThursday June 4th 2026 – Deep learning\nDL concepts\nPractices with PlantNet\nFriday June5th 2026 – Symbolic AI\nIntroduction\nPractice: Designing protected areas in New Caledonia\nPractice: Crop rotation planning\nFeedback time and conclusion",
+    "text": "Program\nMonday June 1st 2026 – 9:00 am: Introduction and Machine learning\nPresentation of the course and speakers\nIntroduction to AI: historical background\nLinear and general regression : from a ML perspective\nPractical concepts and practice\nTuesday June 2nd 2026 – Machine learning 2\nDataset selection\nSupervised learning : classification, regression, random forest\nDimensionality reduction\nUnsupervised learning : clustering\nWednesday June 3rd 2026 – Practice ML, introduction to Deep Learning\nHands on: practice\nDeep learning: a history\nDeep learning: main concepts\nThursday June 4th 2026 – Deep learning: SDMs and LLMs\nDL applied to Species Distribution Models\nPractice using PlantNet data\nDL applied to literature review: LLMs\nPractice\nFriday June5th 2026 – Symbolic AI\nIntroduction\nPractice: Designing protected areas in New Caledonia\nPractice: Crop rotation planning\nFeedback time and conclusion",
     "crumbs": [
       "Welcome"
     ]
@@ -24,7 +24,7 @@
     "href": "index.html#prerequisites",
     "title": "AI for ecologists: a toolkit",
     "section": "Prerequisites",
-    "text": "Prerequisites\nYou must have a strong programming background, at least in R.\nFamiliarity with Python is preferred, but not mandatory. In fact, to make sure that we all start on similar bases, we require that you follow these tutorials before attending the training course.\n  https://www.learnpython.org/\nUnder the “Learn the basics”, please go through all the following pages:\n• Hello, World!\n• Variables and Types\n• Lists\n• Basic Operators\n• String Formatting\n• Basic String Operations\n• Conditions\n• Loops\n• Functions\n• Classes and Objects\n• Dictionaries\n• Modules and Packages\n• Input and Output\nEach section allows you to interact with a built-in Python console where you can copy/paste and edit the commands. The sections end with a small exercise, which we recommend you do. You may navigate from one section to the other by clicking on the “next tutorial” button (you don’t have to take the test – but are welcome to if you enjoy it)\nWe will not control whether you followed the tutorial, but trust that you will to collectively ensure the group has a common base to start from",
+    "text": "Prerequisites\nYou must have a strong programming background, at least in R.\nFamiliarity with Python is preferred, but not mandatory. In fact, to make sure that we all start on similar bases, we require that you follow this tutorial we made just for you &lt;3 before attending the training course.\nYou don’t need to remember all of this by heart and you can go back to this at any time during the training course (and any other time too).\nIf you think you need a Python refresher, you can also have a look at these fun interactive tutorials:\n  https://www.learnpython.org/\nUnder the “Learn the basics”, we recommend the following pages:\n• Hello, World!\n• Variables and Types\n• Lists\n• Basic Operators\n• String Formatting\n• Basic String Operations\n• Conditions\n• Loops\n• Functions\n• Classes and Objects\n• Dictionaries\n• Modules and Packages\n• Input and Output\nEach section allows you to interact with a built-in Python console where you can copy/paste and edit the commands. The sections end with a small exercise, which we recommend you do. You may navigate from one section to the other by clicking on the “next tutorial” button (you don’t have to take the test – but are welcome to if you enjoy it)\nWe will not control whether you followed any of these tutorials, but trust that you will to collectively ensure the group has a common base to start from.",
     "crumbs": [
       "Welcome"
     ]
@@ -44,7 +44,7 @@
     "href": "index.html#acknowledgements",
     "title": "AI for ecologists: a toolkit",
     "section": "Acknowledgements",
-    "text": "Acknowledgements\nThanks to Sakina Ayata for comments and advice in the set-up of this training course, to Nicolas Casajus for constant conceptual and technical support. Thanks to Maija Miikkola for all the logistical and administrative help, and to Violette Silve for the visual support on the FRB website.",
+    "text": "Acknowledgements\nThanks to Sakina Ayata for comments and advice in the set-up of this training course, to Nicolas Casajus for constant conceptual and technical support. Thanks to Maija Miikkola and Maud Calmet for all the logistical and administrative help, and to Violette Silve for the visual support on the FRB website.",
     "crumbs": [
       "Welcome"
     ]
@@ -54,7 +54,7 @@
     "href": "index.html#citation",
     "title": "AI for ecologists: a toolkit",
     "section": "Citation",
-    "text": "Citation\n\nBlondel L, Bourel B, Challand M, Coux C, Justea-Allaire D, Frelat R, Servajean M, Tieo S.M., Tresson P. (2026) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: https://ai-ecol.github.io/",
+    "text": "Citation\n\nBlondel L, Bourel B, Challand M, Coux C, Justeau-Allaire D, Frelat R, Marcos D, Servajean M, Tieo S.M., Tresson P. (2026) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: https://ai-ecol.github.io/",
     "crumbs": [
       "Welcome"
     ]
