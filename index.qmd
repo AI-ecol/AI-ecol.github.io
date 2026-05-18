@@ -51,13 +51,13 @@ Hands on: practice
 
 Deep learning: a history
 
-Deep learning: main concepts
+Deep learning: main concepts and practice
 
 **Thursday June 4th 2026 – Deep learning: SDMs and LLMs**
 
-DL applied to Species Distribution Models
+CNN: Practice using PlantNet data
 
-Practice using PlantNet data
+DL applied to Species Distribution Models
 
 DL applied to literature review: LLMs
 
