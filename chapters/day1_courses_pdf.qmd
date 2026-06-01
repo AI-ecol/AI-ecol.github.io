@@ -5,10 +5,10 @@
 
 <br />
 {{< fa user >}} &nbsp;**Author:** [Léo Blondel](https://www.alien.club/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2026/day1_1_intro_AI_SF_Ethics.pdf>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2026_day1_1_intro_AI_SF_Ethics.pdf>
 
 
-
+https://github.com/AI-ecol/AI-ecol.github.io/tree/main/chapters/2026
 <br />
 
 <div class="container">
@@ -22,7 +22,7 @@
 
 <br />
 {{< fa user >}} &nbsp;**Author:** [Dimitri Justeau-Allaire](https://dimitri-justeau.github.io/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2026/day1_2_historical_background.pdf>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2026_day1_2_historical_background.pdf>
 
 
 <br />
@@ -36,4 +36,4 @@
 
 <br />
 {{< fa user >}} &nbsp;**Author:** [Léo Blondel](https://www.alien.club/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2026/day1_3_intro_machine_learning.pdf>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2026_day1_3_intro_machine_learning.pdf>

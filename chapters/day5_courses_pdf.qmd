@@ -5,7 +5,7 @@
 
 <br />
 {{< fa user >}} &nbsp;**Author:** [Dimitri Justeau-Allaire](https://dimitri-justeau.github.io/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2025/day5_1_intro_to_automated_reasonning_CP.pdf>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/day5_1_intro_to_automated_reasonning_CP.pdf>
 
 
 
@@ -22,7 +22,7 @@
 
 <br />
 {{< fa user >}} &nbsp;**Author:** [Margot Challand](https://www.researchgate.net/profile/Margot-Challand-2)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2025/day5_2_agronomic_use_case_of_CP.pdf>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/day5_2_agronomic_use_case_of_CP.pdf>
 
 
 <br />
