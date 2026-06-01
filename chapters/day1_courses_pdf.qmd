@@ -12,7 +12,7 @@ https://github.com/AI-ecol/AI-ecol.github.io/tree/main/chapters/2026
 <br />
 
 <div class="container">
-  <iframe class="responsive-iframe" src="day1_1_intro_AI_SF_Ethics.pdf"></iframe>
+  <iframe class="responsive-iframe" src="2026_day1_1_intro_AI_SF_Ethics.pdf"></iframe>
 </div> 
 
 
@@ -28,7 +28,7 @@ https://github.com/AI-ecol/AI-ecol.github.io/tree/main/chapters/2026
 <br />
 
 <div class="container">
-  <iframe class="responsive-iframe" src="day1_2_historical_background.pdf"></iframe>
+  <iframe class="responsive-iframe" src="2026_day1_2_historical_background.pdf"></iframe>
 </div> 
 
 
@@ -37,3 +37,9 @@ https://github.com/AI-ecol/AI-ecol.github.io/tree/main/chapters/2026
 <br />
 {{< fa user >}} &nbsp;**Author:** [Léo Blondel](https://www.alien.club/)<br/>
 {{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2026_day1_3_intro_machine_learning.pdf>
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="2026_day1_3_intro_machine_learning.pdf"></iframe>
+</div> 
