@@ -94,7 +94,7 @@
     "href": "chapters/day1_courses_pdf.html",
     "title": "Day 1",
     "section": "",
-    "text": "Introduction: AI SF & Ethics\n   Author: Léo Blondel   Slides: https://ai-ecol.github.io/chapters/2026_day1_1_intro_AI_SF_Ethics.pdf\nhttps://github.com/AI-ecol/AI-ecol.github.io/tree/main/chapters/2026 \n\n\n\n\n\n\nHistorical background\n   Author: Dimitri Justeau-Allaire   Slides: https://ai-ecol.github.io/chapters/2026_day1_2_historical_background.pdf\n\n\n\n\n\n\nIntroduction tyo machine learning\n   Author: Léo Blondel   Slides: https://ai-ecol.github.io/chapters/2026_day1_3_intro_machine_learning.pdf",
+    "text": "Introduction: AI SF & Ethics\n   Author: Léo Blondel   Slides: https://ai-ecol.github.io/chapters/2026_day1_1_intro_AI_SF_Ethics.pdf\n\n\n\n\n\n\n\nHistorical background\n   Author: Dimitri Justeau-Allaire   Slides: https://ai-ecol.github.io/chapters/2026_day1_2_historical_background.pdf\n\n\n\n\n\n\nIntroduction tyo machine learning\n   Author: Léo Blondel   Slides: https://ai-ecol.github.io/chapters/2026_day1_3_intro_machine_learning.pdf",
     "crumbs": [
       "Courses",
       "Day 1"
@@ -105,7 +105,7 @@
     "href": "chapters/day2_courses_pdf.html",
     "title": "Day 2",
     "section": "",
-    "text": "Introduction to machine learning\n   Author: Léo Blondel   Slides: https://ai-ecol.github.io/chapters/day2_1_intro_machine_learning.pdf\n\n\n\n\n\n\n\nOverfitting\n   Author: Paul Tresson   Slides: https://ai-ecol.github.io/chapters/day2_2_overfitting.pdf\n\n\n\n\n\n\n\nDecision trees and random forest\n   Author: Paul Tresson   Slides: &lt;ai-ecol.github.io/chapters/day2_3_random_forest.pdf&gt;",
+    "text": "Sampling and overfitting\n   Author: Paul Tresson   Slides: https://ai-ecol.github.io/chapters/2026_day2_sampling_and_overfitting.pdf\n\n\n\n\n\n\n\nDecision trees and random forest\n   Author: Paul Tresson   Slides: https://ai-ecol.github.io/chapters/2026_day2_decision_trees_and_random_forests.pdf\n\n\n\n\n\n\nProjections and clustering\n   Author: Paul Tresson   Slides: https://ai-ecol.github.io/chapters/2026_day2_projections_and_clusterings.pdf\n\n\n\n\n\n\nGMM\n   Author: Léo Blondel   Slides: https://ai-ecol.github.io/chapters/2026_day2_GMM.pdf\n\n\n\n\n\n\nLogistic Regression\n   Author: Léo Blondel   Slides: https://ai-ecol.github.io/chapters/22026_day2_logistic_regression.pdf",
     "crumbs": [
       "Courses",
       "Day 2"
@@ -116,7 +116,7 @@
     "href": "chapters/day3_courses_pdf.html",
     "title": "Day 3",
     "section": "",
-    "text": "Projections and clustering\n   Author: Paul Tresson   Slides: https://ai-ecol.github.io/chapters/2025/day3_1_projections_and_clustering.pdf\n\n\n\n\n\n\n\nGaussian Mixture Models\n   Author: Léo Blondel   Slides: https://ai-ecol.github.io/chapters/day3_2_GMM.pdf",
+    "text": "A brief history of Deep Learning\n   Author: Paul Tresson   Slides: https://ai-ecol.github.io/chapters/2026_day3_brief_history_of_recent_DL.pdf\n\n\n\n\n\n\n\nDeep learning : neuron\n   Author: Diego Marcos   Slides: https://ai-ecol.github.io/chapters/2026_day3_1_Neuron.pdf\n\n\n\n\n\n\n\nDeep learning : gradient descent\n   Author: Diego Marcos   Slides: https://ai-ecol.github.io/chapters/2026_day3_2_gradient_descent.pdf\n\n\n\n\n\n\n\nDeep learning : MLP and CNN\n   Author: Diego Marcos   Slides: https://ai-ecol.github.io/chapters/2026_day3_3_MLP_CNN.pdf\n\n\n\n\n\n\n\nDeep learning : evaluation\n   Author: Diego Marcos   Slides: https://ai-ecol.github.io/chapters/2026_day3_4_DL_evaluation.pdf\n\n\n\n\n\n\n\nDeep learning : a cookbook\n   Author: Sonia Mai Tieo   Slides: https://ai-ecol.github.io/chapters/2026_day3_DL_cookbook.pdf",
     "crumbs": [
       "Courses",
       "Day 3"
@@ -127,7 +127,7 @@
     "href": "chapters/day4_courses_pdf.html",
     "title": "Day 4",
     "section": "",
-    "text": "A brief history of deep learning\n   Author: Paul Tresson   Slides: https://ai-ecol.github.io/chapters/day4_history_DL.pdf",
+    "text": "More cooking with DL\n   Author: Sonia Mai Tieo   Slides: https://ai-ecol.github.io/chapters/2026_day3_DL_cookbook.pdf\n\n\n\n\nMore to come soon",
     "crumbs": [
       "Courses",
       "Day 4"
@@ -149,7 +149,7 @@
     "href": "chapters/day1-colab-notebooks.html",
     "title": "DAY 1 - Introduction to data science and Python",
     "section": "",
-    "text": "If you want to edit the colab notebook, go to File &gt; Save copy in Drive.\nColab notebook: Intro to Colab - Python libraries\nColab notebook: Machine Learning: loss landscape and gradient descent",
+    "text": "If you want to edit the colab notebook, go to File &gt; Save copy in Drive.\nColab notebook: Intro to Colab - Python libraries (NB: this has been turned into a tutorial for the 2026 edition).\nColab notebook: Machine Learning: loss landscape and gradient descent",
     "crumbs": [
       "Exercises",
       "DAY 1 - Introduction to data science and Python"
@@ -160,7 +160,7 @@
     "href": "chapters/day2-colab-notebooks.html",
     "title": "DAY 2 - Datasets and supervised learning",
     "section": "",
-    "text": "If you want to edit the colab notebook, go to File &gt; Save copy in Drive.\nColab notebook: Morning: Loss functions and gradient descent\nColab notebook: Supervised learning & validation strategies",
+    "text": "If you want to edit the colab notebook, go to File &gt; Save copy in Drive.\nColab notebook: Datasets and supervised learning\nColab notebook: Unsupervised learning and dimensionality redusction",
     "crumbs": [
       "Exercises",
       "DAY 2 - Datasets and supervised learning"
@@ -171,7 +171,7 @@
     "href": "chapters/day3-colab-notebooks.html",
     "title": "DAY 3 - Unsupervised Learning & Dimensionality Reduction",
     "section": "",
-    "text": "If you want to edit the colab notebook, go to File &gt; Save copy in Drive.\nColab notebook: Unsupervised learning, dimensionality reduction, clustering and GMMs\nColab notebook: Kaggle datasets to play with",
+    "text": "If you want to edit the colab notebook, go to File &gt; Save copy in Drive.\nColab notebook: Morning practice\nColab notebook: Kaggle datasets to play with\nColab notebook: Afternoon exercise",
     "crumbs": [
       "Exercises",
       "DAY 3 - Unsupervised Learning & Dimensionality Reduction"
@@ -182,7 +182,7 @@
     "href": "chapters/day4-colab-notebooks.html",
     "title": "DAY 4 - Deep learning",
     "section": "",
-    "text": "If you want to edit the colab notebook, go to File &gt; Save copy in Drive.\nColab notebook: Morning: Introduction to DL and classification\nColab notebook: Afternoon: Introduction to SDMs by DL",
+    "text": "If you want to edit the colab notebook, go to File &gt; Save copy in Drive.\nColab notebook: Plant species classification\nColab notebook: Introduction to SDMs by DL (coming soon)\nColab notebook: LLMs for evidence synthesis",
     "crumbs": [
       "Exercises",
       "DAY 4 - Deep learning"
