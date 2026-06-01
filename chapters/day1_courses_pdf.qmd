@@ -8,7 +8,7 @@
 {{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2026_day1_1_intro_AI_SF_Ethics.pdf>
 
 
-https://github.com/AI-ecol/AI-ecol.github.io/tree/main/chapters/2026
+
 <br />
 
 <div class="container">

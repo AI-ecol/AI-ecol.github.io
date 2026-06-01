@@ -1,17 +1,20 @@
 
 ## Day 4 {.unnumbered}
 
-### A brief history of deep learning
+### More cooking with DL
 
 <br />
-{{< fa user >}} &nbsp;**Author:** [Paul Tresson](http://paul.tresson.eu/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/day4_history_DL.pdf>
+{{< fa user >}} &nbsp;**Author:** [Sonia Mai Tieo](https://www.researchgate.net/profile/Sonia-Tieo)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2026_day3_DL_cookbook.pdf>
 
 
 
 <br />
 
 <div class="container">
-  <iframe class="responsive-iframe" src="day4_history_DL.pdf"></iframe>
+  <iframe class="responsive-iframe" src="2026_day3_DL_cookbook.pdf"></iframe>
 </div> 
 
+
+
+*More to come soon*
