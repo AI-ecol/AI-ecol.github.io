@@ -22,7 +22,7 @@
 
 <br />
 {{< fa user >}} &nbsp;**Author:**  [Paul Tresson](http://paul.tresson.eu/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <ai-ecol.github.io/chapters/2026_day2_decision_trees_and_random_forests.pdf>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2026_day2_decision_trees_and_random_forests.pdf>
 
 
 <br />
@@ -36,7 +36,7 @@
 
 <br />
 {{< fa user >}} &nbsp;**Author:**  [Paul Tresson](http://paul.tresson.eu/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <ai-ecol.github.io/chapters/2026_day2_projections_and_clusterings.pdf>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2026_day2_projections_and_clusterings.pdf>
 
 
 <br />
@@ -51,7 +51,7 @@
 
 <br />
 {{< fa user >}} &nbsp;**Author:**  [Léo Blondel](https://www.alien.club/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <ai-ecol.github.io/chapters/2026_day2_GMM.pdf>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2026_day2_GMM.pdf>
 
 
 <br />
@@ -66,7 +66,7 @@
 
 <br />
 {{< fa user >}} &nbsp;**Author:**  [Léo Blondel](https://www.alien.club/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <ai-ecol.github.io/chapters/22026_day2_logistic_regression.pdf>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/22026_day2_logistic_regression.pdf>
 
 
 <br />

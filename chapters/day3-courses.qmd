@@ -1,6 +1,21 @@
-## DAY 3 - Unsupervised machine learning  {.unnumbered}
+## DAY 3 - Morning practice + Introduction to Deep Learning {.unnumbered}
 
-Slides: [Projections and clusterings (Paul)](https://github.com/ptresson/projection_clustering_presentation/blob/main/main.pdf)
+Slides: [A brief history of Deep Learning (Paul)](https://github.com/ptresson/dl_history_presentation/blob/main/main.pdf)
 
 
-Slides: [Gaussian Mixture Model (Léo)](https://docs.google.com/presentation/d/1ICe_xkVoJlV3fWkNLQFCFq9uI0OBHZpd8dVc2m9veHE/edit?slide=id.p#slide=id.p)
+
+### Diego :
+
+Slides: [Deep learning : neuron](https://docs.google.com/presentation/d/1md25QGpi85mp5F58a4kAGefdpEc7rAexGbEx6Nnhx6U/edit?usp=drive_link)
+
+Slides: [Deep learning : gradient descent](https://docs.google.com/presentation/d/1jNX7ubWoEjE7XRnGPDc2WQyAT680FnEvVlwnlzFnP7c/edit?usp=drive_link)
+
+Slides: [Deep learning : MLP - CNN](https://docs.google.com/presentation/d/1PwNGO5361BrWfQwIyBYSbVtqKfnPjG4XxeC2a7FEoag/edit?usp=drive_link)
+
+Slides: [Deep learning : evaluation ](https://docs.google.com/presentation/d/13NB1sPY2FJIa3zPS7qGYpJY561gScQd-Kc2qYrt11gI/edit?usp=drive_link)
+
+
+### Sonia:
+
+Slides: [Deep learning : a cookbook](https://docs.google.com/presentation/d/1bfeFNN7bvOFgbDIy74dBhraOg_4UnsQf0a2v21inIek/edit?slide=id.g3e23d833519_0_405#slide=id.g3e23d833519_0_405)
+

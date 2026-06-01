@@ -1,34 +1,99 @@
 
 ## Day 3 {.unnumbered}
 
-### Projections and clustering
+### A brief history of Deep Learning
 
 <br />
 {{< fa user >}} &nbsp;**Author:** [Paul Tresson](http://paul.tresson.eu/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2025/day3_1_projections_and_clustering.pdf>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2026_day3_brief_history_of_recent_DL.pdf>
 
 
 
 <br />
 
 <div class="container">
-  <iframe class="responsive-iframe" src="day3_1_projections_and_clustering.pdf"></iframe>
+  <iframe class="responsive-iframe" src="2026_day3_brief_history_of_recent_DL.pdf"></iframe>
 </div> 
 
 
 <br /><br /><br />
 
-### Gaussian Mixture Models
+### Deep learning : neuron
 
 <br />
-{{< fa user >}} &nbsp;**Author:** [Léo Blondel](https://www.alien.club/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/day3_2_GMM.pdf>
+{{< fa user >}} &nbsp;**Author:** [Diego Marcos](https://www.researchgate.net/profile/Diego-Marcos)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2026_day3_1_Neuron.pdf>
 
 
 <br />
 
 <div class="container">
-  <iframe class="responsive-iframe" src="day3_2_GMM.pdf"></iframe>
+  <iframe class="responsive-iframe" src="2026_day3_1_Neuron.pdf"></iframe>
 </div> 
 
+
+<br /><br /><br />
+
+### Deep learning : gradient descent
+
+<br />
+{{< fa user >}} &nbsp;**Author:** [Diego Marcos](https://www.researchgate.net/profile/Diego-Marcos)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2026_day3_2_gradient_descent.pdf>
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="2026_day3_2_gradient_descent.pdf"></iframe>
+</div> 
+
+
+<br /><br /><br />
+
+### Deep learning : MLP and CNN
+
+<br />
+{{< fa user >}} &nbsp;**Author:** [Diego Marcos](https://www.researchgate.net/profile/Diego-Marcos)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2026_day3_3_MLP_CNN.pdf>
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="2026_day3_3_MLP_CNN.pdf"></iframe>
+</div> 
+
+
+<br /><br /><br />
+
+### Deep learning : evaluation
+
+<br />
+{{< fa user >}} &nbsp;**Author:** [Diego Marcos](https://www.researchgate.net/profile/Diego-Marcos)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2026_day3_4_DL_evaluation.pdf>
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="2026_day3_4_DL_evaluation.pdf"></iframe>
+</div> 
+
+
+
+
+<br /><br /><br />
+
+### Deep learning : a cookbook
+
+<br />
+{{< fa user >}} &nbsp;**Author:** [Sonia Mai Tieo](https://www.researchgate.net/profile/Sonia-Tieo)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2026_day3_DL_cookbook.pdf>
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="2026_day3_DL_cookbook.pdf"></iframe>
+</div> 
 
