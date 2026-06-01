@@ -94,7 +94,7 @@
     "href": "chapters/day1_courses_pdf.html",
     "title": "Day 1",
     "section": "",
-    "text": "Introduction: AI SF & Ethics\n   Author: Léo Blondel   Slides: https://ai-ecol.github.io/chapters/2026/day1_1_intro_AI_SF_Ethics.pdf\n\n\n\n\n\n\n\nHistorical background\n   Author: Dimitri Justeau-Allaire   Slides: https://ai-ecol.github.io/chapters/2026/day1_2_historical_background.pdf\n\n\n\n\n\n\nIntroduction tyo machine learning\n   Author: Léo Blondel   Slides: https://ai-ecol.github.io/chapters/2026/day1_3_intro_machine_learning.pdf",
+    "text": "Introduction: AI SF & Ethics\n   Author: Léo Blondel   Slides: https://ai-ecol.github.io/chapters/2026_day1_1_intro_AI_SF_Ethics.pdf\nhttps://github.com/AI-ecol/AI-ecol.github.io/tree/main/chapters/2026 \n\n\n\n\n\n\nHistorical background\n   Author: Dimitri Justeau-Allaire   Slides: https://ai-ecol.github.io/chapters/2026_day1_2_historical_background.pdf\n\n\n\n\n\n\nIntroduction tyo machine learning\n   Author: Léo Blondel   Slides: https://ai-ecol.github.io/chapters/2026_day1_3_intro_machine_learning.pdf",
     "crumbs": [
       "Courses",
       "Day 1"
@@ -105,7 +105,7 @@
     "href": "chapters/day2_courses_pdf.html",
     "title": "Day 2",
     "section": "",
-    "text": "Introduction to machine learning\n   Author: Léo Blondel   Slides: https://ai-ecol.github.io/chapters/2025/day2_1_intro_machine_learning.pdf\n\n\n\n\n\n\n\nOverfitting\n   Author: Paul Tresson   Slides: https://ai-ecol.github.io/chapters/2025/day2_2_overfitting.pdf\n\n\n\n\n\n\n\nDecision trees and random forest\n   Author: Paul Tresson   Slides: &lt;ai-ecol.github.io/chapters/2025/day2_3_random_forest.pdf&gt;",
+    "text": "Introduction to machine learning\n   Author: Léo Blondel   Slides: https://ai-ecol.github.io/chapters/day2_1_intro_machine_learning.pdf\n\n\n\n\n\n\n\nOverfitting\n   Author: Paul Tresson   Slides: https://ai-ecol.github.io/chapters/day2_2_overfitting.pdf\n\n\n\n\n\n\n\nDecision trees and random forest\n   Author: Paul Tresson   Slides: &lt;ai-ecol.github.io/chapters/day2_3_random_forest.pdf&gt;",
     "crumbs": [
       "Courses",
       "Day 2"
@@ -116,7 +116,7 @@
     "href": "chapters/day3_courses_pdf.html",
     "title": "Day 3",
     "section": "",
-    "text": "Projections and clustering\n   Author: Paul Tresson   Slides: https://ai-ecol.github.io/chapters/2025/day3_1_projections_and_clustering.pdf\n\n\n\n\n\n\n\nGaussian Mixture Models\n   Author: Léo Blondel   Slides: https://ai-ecol.github.io/chapters/2025/day3_2_GMM.pdf",
+    "text": "Projections and clustering\n   Author: Paul Tresson   Slides: https://ai-ecol.github.io/chapters/2025/day3_1_projections_and_clustering.pdf\n\n\n\n\n\n\n\nGaussian Mixture Models\n   Author: Léo Blondel   Slides: https://ai-ecol.github.io/chapters/day3_2_GMM.pdf",
     "crumbs": [
       "Courses",
       "Day 3"
@@ -127,7 +127,7 @@
     "href": "chapters/day4_courses_pdf.html",
     "title": "Day 4",
     "section": "",
-    "text": "A brief history of deep learning\n   Author: Paul Tresson   Slides: https://ai-ecol.github.io/chapters/2025/day4_history_DL.pdf",
+    "text": "A brief history of deep learning\n   Author: Paul Tresson   Slides: https://ai-ecol.github.io/chapters/day4_history_DL.pdf",
     "crumbs": [
       "Courses",
       "Day 4"
@@ -138,7 +138,7 @@
     "href": "chapters/day5_courses_pdf.html",
     "title": "Day 5",
     "section": "",
-    "text": "Introduction to automated reasoning and constraint programming\n   Author: Dimitri Justeau-Allaire   Slides: https://ai-ecol.github.io/chapters/2025/day5_1_intro_to_automated_reasonning_CP.pdf\n\n\n\n\n\n\n\nAgronomic use case of constraint programming\n   Author: Margot Challand   Slides: https://ai-ecol.github.io/chapters/2025/day5_2_agronomic_use_case_of_CP.pdf",
+    "text": "Introduction to automated reasoning and constraint programming\n   Author: Dimitri Justeau-Allaire   Slides: https://ai-ecol.github.io/chapters/day5_1_intro_to_automated_reasonning_CP.pdf\n\n\n\n\n\n\n\nAgronomic use case of constraint programming\n   Author: Margot Challand   Slides: https://ai-ecol.github.io/chapters/day5_2_agronomic_use_case_of_CP.pdf",
     "crumbs": [
       "Courses",
       "Day 5"
