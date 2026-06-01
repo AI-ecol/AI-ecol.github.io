@@ -5,7 +5,7 @@
 
 <br />
 {{< fa user >}} &nbsp;**Author:** [Paul Tresson](http://paul.tresson.eu/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/day3_1_projections_and_clustering.pdf>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2025/day3_1_projections_and_clustering.pdf>
 
 
 
@@ -22,7 +22,7 @@
 
 <br />
 {{< fa user >}} &nbsp;**Author:** [Léo Blondel](https://www.alien.club/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/day3_2_GMM.pdf>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2025/day3_2_GMM.pdf>
 
 
 <br />
