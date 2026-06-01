@@ -1,34 +1,18 @@
 
 ## Day 2 {.unnumbered}
 
-### Introduction to machine learning
 
-<br />
-{{< fa user >}} &nbsp;**Author:** [Léo Blondel](https://www.alien.club/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/day2_1_intro_machine_learning.pdf>
-
-
-
-<br />
-
-<div class="container">
-  <iframe class="responsive-iframe" src="day2_1_intro_machine_learning.pdf"></iframe>
-</div> 
-
-
-<br /><br /><br />
-
-### Overfitting
+### Sampling and overfitting
 
 <br />
 {{< fa user >}} &nbsp;**Author:** [Paul Tresson](http://paul.tresson.eu/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/day2_2_overfitting.pdf>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2026_day2_sampling_and_overfitting.pdf>
 
 
 <br />
 
 <div class="container">
-  <iframe class="responsive-iframe" src="day2_2_overfitting.pdf"></iframe>
+  <iframe class="responsive-iframe" src="2026_day2_sampling_and_overfitting.pdf"></iframe>
 </div> 
 
 <br /><br /><br />
@@ -38,11 +22,55 @@
 
 <br />
 {{< fa user >}} &nbsp;**Author:**  [Paul Tresson](http://paul.tresson.eu/)<br/>
-{{< fa globe >}} &nbsp;**Slides:** <ai-ecol.github.io/chapters/day2_3_random_forest.pdf>
+{{< fa globe >}} &nbsp;**Slides:** <ai-ecol.github.io/chapters/2026_day2_decision_trees_and_random_forests.pdf>
 
 
 <br />
 
 <div class="container">
-  <iframe class="responsive-iframe" src="day2_3_random_forest.pdf"></iframe>
+  <iframe class="responsive-iframe" src="2026_day2_decision_trees_and_random_forests.pdf"></iframe>
+</div> 
+
+
+### Projections and clustering
+
+<br />
+{{< fa user >}} &nbsp;**Author:**  [Paul Tresson](http://paul.tresson.eu/)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <ai-ecol.github.io/chapters/2026_day2_projections_and_clusterings.pdf>
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="2026_day2_projections_and_clusterings.pdf"></iframe>
+</div> 
+
+
+### GMM
+
+
+<br />
+{{< fa user >}} &nbsp;**Author:**  [Léo Blondel](https://www.alien.club/)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <ai-ecol.github.io/chapters/2026_day2_GMM.pdf>
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="2026_day2_GMM.pdf"></iframe>
+</div> 
+
+
+### Logistic Regression
+
+
+<br />
+{{< fa user >}} &nbsp;**Author:**  [Léo Blondel](https://www.alien.club/)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <ai-ecol.github.io/chapters/22026_day2_logistic_regression.pdf>
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="2026_day2_logistic_regression.pdf"></iframe>
 </div> 
