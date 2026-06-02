@@ -54,7 +54,7 @@
     "href": "index.html#citation",
     "title": "AI for ecologists: a toolkit",
     "section": "Citation",
-    "text": "Citation\n\nBlondel L, Bourel B, Challand M, Coux C, Justeau-Allaire D, Frelat R, Marcos D, Servajean M, Tieo S.M., Tresson P. (2026) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: https://ai-ecol.github.io/",
+    "text": "Citation\n\nBlondel L, Bourel B, Challand M, Coux C, Justeau-Allaire D, Frelat R, Marcos D, Servajean M, Tieo S.M., Tresson P., Ubilla P. (2026) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: https://ai-ecol.github.io/",
     "crumbs": [
       "Welcome"
     ]
@@ -160,7 +160,7 @@
     "href": "chapters/day2-colab-notebooks.html",
     "title": "DAY 2 - Datasets and supervised learning",
     "section": "",
-    "text": "If you want to edit the colab notebook, go to File &gt; Save copy in Drive.\nColab notebook: Datasets and supervised learning\nColab notebook: Unsupervised learning and dimensionality redusction",
+    "text": "If you want to edit the colab notebook, go to File &gt; Save copy in Drive.\nColab notebook: Datasets and supervised learning\nColab notebook: Unsupervised learning and dimensionality reduction",
     "crumbs": [
       "Exercises",
       "DAY 2 - Datasets and supervised learning"
@@ -171,7 +171,7 @@
     "href": "chapters/day3-colab-notebooks.html",
     "title": "DAY 3 - Unsupervised Learning & Dimensionality Reduction",
     "section": "",
-    "text": "If you want to edit the colab notebook, go to File &gt; Save copy in Drive.\nColab notebook: Morning practice\nColab notebook: Kaggle datasets to play with\nColab notebook: Afternoon exercise",
+    "text": "If you want to edit the colab notebook, go to File &gt; Save copy in Drive.\nColab notebook: Simple PyTorch example\nColab notebook: Deep Learning Lab: Plant Species Classification",
     "crumbs": [
       "Exercises",
       "DAY 3 - Unsupervised Learning & Dimensionality Reduction"
