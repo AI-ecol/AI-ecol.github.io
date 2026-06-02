@@ -1,4 +1,4 @@
-## DAY 3 - Unsupervised Learning & Dimensionality Reduction {.unnumbered}
+## DAY 3 - Morning practice & introduction to Deep Learning {.unnumbered}
 
 If you want to edit the colab notebook, go to File > Save copy in Drive.
 

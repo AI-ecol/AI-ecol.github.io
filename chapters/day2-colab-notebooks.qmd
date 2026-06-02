@@ -1,4 +1,4 @@
-## DAY 2 - Datasets and supervised learning {.unnumbered}
+## DAY 2 - Datasets and Machine Learning {.unnumbered}
 
 If you want to edit the colab notebook, go to File > Save copy in Drive.
 
