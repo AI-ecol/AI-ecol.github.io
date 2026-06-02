@@ -158,23 +158,23 @@
   {
     "objectID": "chapters/day2-colab-notebooks.html",
     "href": "chapters/day2-colab-notebooks.html",
-    "title": "DAY 2 - Datasets and supervised learning",
+    "title": "DAY 2 - Datasets and Machine Learning",
     "section": "",
     "text": "If you want to edit the colab notebook, go to File &gt; Save copy in Drive.\nColab notebook: Datasets and supervised learning\nColab notebook: Unsupervised learning and dimensionality reduction",
     "crumbs": [
       "Exercises",
-      "DAY 2 - Datasets and supervised learning"
+      "DAY 2 - Datasets and Machine Learning"
     ]
   },
   {
     "objectID": "chapters/day3-colab-notebooks.html",
     "href": "chapters/day3-colab-notebooks.html",
-    "title": "DAY 3 - Unsupervised Learning & Dimensionality Reduction",
+    "title": "DAY 3 - Morning practice & introduction to Deep Learning",
     "section": "",
     "text": "If you want to edit the colab notebook, go to File &gt; Save copy in Drive.\nColab notebook: Simple PyTorch example\nColab notebook: Deep Learning Lab: Plant Species Classification",
     "crumbs": [
       "Exercises",
-      "DAY 3 - Unsupervised Learning & Dimensionality Reduction"
+      "DAY 3 - Morning practice & introduction to Deep Learning"
     ]
   },
   {
