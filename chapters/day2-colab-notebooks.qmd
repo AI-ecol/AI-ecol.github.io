@@ -4,4 +4,4 @@ If you want to edit the colab notebook, go to File > Save copy in Drive.
 
 Colab notebook: [Datasets and supervised learning](https://colab.research.google.com/drive/1cTaU-FAErdaAiV15enBG9LhgScdah3Qo?usp=sharing)
 
-Colab notebook: [Unsupervised learning and dimensionality redusction](https://colab.research.google.com/drive/1chCLOGbWDeGdLUqJbIEQR9wYtv15l-3C?usp=sharing)
+Colab notebook: [Unsupervised learning and dimensionality reduction](https://colab.research.google.com/drive/1chCLOGbWDeGdLUqJbIEQR9wYtv15l-3C?usp=sharing)

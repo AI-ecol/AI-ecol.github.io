@@ -2,8 +2,11 @@
 
 If you want to edit the colab notebook, go to File > Save copy in Drive.
 
-Colab notebook: [Morning practice](https://colab.research.google.com/drive/1j05F8exohdnT3XyWr7mqzu9KRBxEgaI7?usp=sharing)
+Colab notebook: [Simple PyTorch example](https://colab.research.google.com/drive/1_3cXEDOBfVrAgGrVFzd8SuDwRKplKDNL?usp=sharing)
 
-Colab notebook: [Kaggle datasets to play with](https://colab.research.google.com/drive/163mzto218I5KkUAxEDrsP3VVdTxx6W24?usp=sharing)
 
-Colab notebook: [Afternoon exercise](https://colab.research.google.com/drive/1_3cXEDOBfVrAgGrVFzd8SuDwRKplKDNL?usp=sharing)
+Colab notebook: [Deep Learning Lab: Plant Species Classification](https://colab.research.google.com/drive/1A7UoAo8rCrrOKDbYua2PSLZGHISdxa4Q?usp=sharing) 
+
+<!-- Colab notebook: [Kaggle datasets to play with](https://colab.research.google.com/drive/163mzto218I5KkUAxEDrsP3VVdTxx6W24?usp=sharing)
+
+Colab notebook: [Afternoon exercise](https://colab.research.google.com/drive/1_3cXEDOBfVrAgGrVFzd8SuDwRKplKDNL?usp=sharing) -->

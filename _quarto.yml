@@ -62,6 +62,16 @@ book:
           url: "https://amap.cirad.fr/fr/index.php"
 
 
+    - name: "Pablo Ubilla"
+      orcid: "0009-0003-9048-1767"
+      url: "https://orcid.org/0009-0003-9048-1767"
+      affiliations: 
+        - name: INRIA, Montpellier
+          url: "https://pabloubilla.github.io/"
+
+          
+
+
     # - name: "Benjamin Bourel"
     #   orcid: "0000-0001-8312-5471"
     #   url: "https://orcid.org/0000-0001-8312-5471"

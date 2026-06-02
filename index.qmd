@@ -131,7 +131,7 @@ Thanks to Sakina Ayata for comments and advice in the set-up of this training co
 
 ## Citation {.unnumbered}
 
-> Blondel L, Bourel B, Challand M, Coux C, Justeau-Allaire D, Frelat R, Marcos D, Servajean M, Tieo S.M., Tresson P. (2026) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: <https://ai-ecol.github.io/>
+> Blondel L, Bourel B, Challand M, Coux C, Justeau-Allaire D, Frelat R, Marcos D, Servajean M, Tieo S.M., Tresson P., Ubilla P. (2026) AI for ecologists: a toolkit for beginners. An FRB-CESAB training course. URL: <https://ai-ecol.github.io/>
 
 
 ## Contributions {.unnumbered}
