@@ -19,3 +19,4 @@ Slides: [Deep learning : evaluation ](https://docs.google.com/presentation/d/13N
 
 Slides: [Deep learning : a cookbook](https://docs.google.com/presentation/d/1bfeFNN7bvOFgbDIy74dBhraOg_4UnsQf0a2v21inIek/edit?slide=id.g3e23d833519_0_405#slide=id.g3e23d833519_0_405)
 
+Slides: [Introduction to LLMs](https://docs.google.com/presentation/d/1T9Z2BMYiKG4_EkA-Q8aWbi9wjP78o6y-rMD3KX8aTO8/edit?usp=sharing)

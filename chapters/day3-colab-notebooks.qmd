@@ -3,7 +3,7 @@
 If you want to edit the colab notebook, go to File > Save copy in Drive.
 
 
-Morning practice dataset options:
+### Morning practice dataset options:
 
 [Open ML](https://www.openml.org/)
 
@@ -14,6 +14,9 @@ Morning practice dataset options:
 [geodatasets](https://geodatasets.readthedocs.io/en/latest/)
 
 [Kaggle datasets to play with](https://colab.research.google.com/drive/163mzto218I5KkUAxEDrsP3VVdTxx6W24?usp=sharing)
+
+
+### Afternoon Deep Learning
 
 Colab notebook: [Simple PyTorch example](https://colab.research.google.com/drive/1_3cXEDOBfVrAgGrVFzd8SuDwRKplKDNL?usp=sharing)
 
