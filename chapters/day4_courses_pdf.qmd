@@ -15,6 +15,23 @@
   <iframe class="responsive-iframe" src="2026_day3_DL_cookbook.pdf"></iframe>
 </div> 
 
+<br />
+<br />
 
 
-*More to come soon*
+### Introduction to LLMs
+
+
+Slides: [Introduction to LLMs]()
+
+<br />
+{{< fa user >}} &nbsp;**Author:** [Sonia Mai Tieo](https://www.researchgate.net/profile/Sonia-Tieo)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2026_day4_llm_intro_ecology.pdf>
+
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="2026_day4_llm_intro_ecology.pdf"></iframe>
+</div> 
