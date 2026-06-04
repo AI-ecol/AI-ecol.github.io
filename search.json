@@ -182,7 +182,7 @@
     "href": "chapters/day4-colab-notebooks.html",
     "title": "DAY 4 - Deep learning",
     "section": "",
-    "text": "If you want to edit the colab notebook, go to File &gt; Save copy in Drive.\nColab notebook: Plant species classification\nColab notebook: Introduction to SDMs by DL (coming soon)\nColab notebook: LLMs for evidence synthesis",
+    "text": "If you want to edit the colab notebook, go to File &gt; Save copy in Drive.\nColab notebook (Sonia): Plant species classification\nColab notebook (Diego & Pablo): Introduction to deep SDMs\nColab notebook (Sonia): LLMs for evidence synthesis",
     "crumbs": [
       "Exercises",
       "DAY 4 - Deep learning"
