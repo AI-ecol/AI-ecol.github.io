@@ -19,6 +19,25 @@
 <br />
 
 
+
+
+### Introduction to deep SDMs
+
+<br />
+{{< fa user >}} &nbsp;**Author:** [Pablo Ubilla](https://pabloubilla.github.io/)<br/>
+{{< fa globe >}} &nbsp;**Slides:** <https://ai-ecol.github.io/chapters/2026_day4_deep-sdm.pdf>
+
+
+
+<br />
+
+<div class="container">
+  <iframe class="responsive-iframe" src="2026_day4_deep-sdm.pdf"></iframe>
+</div> 
+
+<br />
+<br />
+
 ### Introduction to LLMs
 
 
