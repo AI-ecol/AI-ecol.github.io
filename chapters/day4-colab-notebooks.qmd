@@ -2,8 +2,8 @@
 
 If you want to edit the colab notebook, go to File > Save copy in Drive.
 
-Colab notebook: [Plant species classification ](https://colab.research.google.com/drive/1A7UoAo8rCrrOKDbYua2PSLZGHISdxa4Q?usp=sharing)
+Colab notebook (Sonia): [Plant species classification ](https://colab.research.google.com/drive/1A7UoAo8rCrrOKDbYua2PSLZGHISdxa4Q?usp=sharing)
 
-Colab notebook: Introduction to SDMs by DL (coming soon)
+Colab notebook (Diego & Pablo): [Introduction to deep SDMs](https://drive.google.com/file/d/15scYxdruLmU3HnOhmh_0snudgE7KdjcK/view?usp=sharing)
 
-Colab notebook: [LLMs for evidence synthesis](https://colab.research.google.com/drive/1PlEfbuHP2FAEL1rQzFax5h3CFlzaVyGU?usp=sharing)
+Colab notebook (Sonia): [LLMs for evidence synthesis](https://colab.research.google.com/drive/1PlEfbuHP2FAEL1rQzFax5h3CFlzaVyGU?usp=sharing)
